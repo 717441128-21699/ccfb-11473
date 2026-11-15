@@ -1,0 +1,7337 @@
+{
+ "RFQ-2026-0001": {
+  "supplier_02@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "焊接钢管SC50",
+     "qty": 359,
+     "unit_price": 32.58,
+     "delivery_days": 6
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 105,
+     "unit_price": 4.65,
+     "delivery_days": 7
+    }
+   ]
+  },
+  "supplier_09@local.test": {
+   "style": "pdf",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "焊接钢管SC50",
+     "qty": 359,
+     "unit_price": 31.99,
+     "delivery_days": 12,
+     "round1_price": 39.32
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 105,
+     "unit_price": 5.95,
+     "delivery_days": 12,
+     "round1_price": 6.35,
+     "variant": "PVC线槽40×25"
+    }
+   ]
+  },
+  "supplier_08@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 0,
+   "items": [
+    {
+     "name": "焊接钢管SC50",
+     "qty": 359,
+     "unit_price": 34.32,
+     "delivery_days": 16
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 105,
+     "unit_price": 5.49,
+     "delivery_days": 5,
+     "variant": "PVC线槽40×25"
+    }
+   ]
+  },
+  "supplier_10@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 2,
+   "items": [
+    {
+     "name": "焊接钢管SC50",
+     "qty": 359,
+     "unit_price": 31.25,
+     "delivery_days": 21
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 105,
+     "unit_price": 3.83,
+     "delivery_days": 10,
+     "variant": "PVC线槽 40*25"
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0002": {
+  "supplier_06@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "热缩管Φ10",
+     "qty": 410,
+     "unit_price": 1.14,
+     "delivery_days": 19
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 286,
+     "unit_price": 53.24,
+     "delivery_days": 20
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 287,
+     "unit_price": 20.01,
+     "delivery_days": 3
+    }
+   ]
+  },
+  "supplier_09@local.test": {
+   "style": "excel",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "热缩管Φ10",
+     "qty": 410,
+     "unit_price": 1.12,
+     "delivery_days": 10,
+     "round1_price": 1.35
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 286,
+     "unit_price": 60.19,
+     "delivery_days": 5,
+     "round1_price": 66.57,
+     "variant": "无缝钢管ＤＮ５０"
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 287,
+     "unit_price": 18.95,
+     "delivery_days": 5,
+     "round1_price": 22.01
+    }
+   ]
+  },
+  "supplier_10@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "热缩管Φ10",
+     "qty": 410,
+     "unit_price": 0.88,
+     "delivery_days": 15
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 286,
+     "unit_price": 46.4,
+     "delivery_days": 5,
+     "variant": "无缝钢管ＤＮ５０"
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 287,
+     "unit_price": 18.95,
+     "delivery_days": 9,
+     "variant": "同步带5M-500（镀锌）"
+    }
+   ]
+  },
+  "supplier_01@local.test": {
+   "style": "body",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "热缩管Φ10",
+     "qty": 410,
+     "unit_price": 0.87,
+     "delivery_days": 21,
+     "round1_price": 0.97
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 286,
+     "unit_price": 55.07,
+     "delivery_days": 21,
+     "round1_price": 60.41,
+     "variant": "无缝钢管DN50"
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 287,
+     "unit_price": 24.12,
+     "delivery_days": 5,
+     "round1_price": 27.48
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0003": {
+  "supplier_05@local.test": {
+   "style": "body",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "焊接钢管SC50",
+     "qty": 356,
+     "unit_price": 34.88,
+     "delivery_days": 3,
+     "round1_price": 40.41
+    },
+    {
+     "name": "铝合金型材4040",
+     "qty": 55,
+     "unit_price": 30.54,
+     "delivery_days": 20,
+     "round1_price": 33.02
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 152,
+     "unit_price": 1.14,
+     "delivery_days": 21,
+     "round1_price": 1.28
+    }
+   ]
+  },
+  "supplier_03@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "焊接钢管SC50",
+     "qty": 356,
+     "unit_price": 36.69,
+     "delivery_days": 12
+    },
+    {
+     "name": "铝合金型材4040",
+     "qty": 55,
+     "unit_price": 25.95,
+     "delivery_days": 16,
+     "variant": "铝合金型材4040"
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 152,
+     "unit_price": 0.79,
+     "delivery_days": 19
+    }
+   ]
+  },
+  "supplier_09@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "焊接钢管SC50",
+     "qty": 356,
+     "unit_price": 28.2,
+     "delivery_days": 12
+    },
+    {
+     "name": "铝合金型材4040",
+     "qty": 55,
+     "unit_price": 34.83,
+     "delivery_days": 18,
+     "variant": "铝合金型材4040"
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 152,
+     "unit_price": 1.18,
+     "delivery_days": 14
+    }
+   ]
+  },
+  "supplier_01@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 0,
+   "items": [
+    {
+     "name": "焊接钢管SC50",
+     "qty": 356,
+     "unit_price": 29.83,
+     "delivery_days": 3,
+     "variant": "焊接钢管SC50"
+    },
+    {
+     "name": "铝合金型材4040",
+     "qty": 55,
+     "unit_price": 34.2,
+     "delivery_days": 12
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 152,
+     "unit_price": 1.09,
+     "delivery_days": 8,
+     "variant": "热缩管Φ１０"
+    }
+   ]
+  },
+  "supplier_08@local.test": {
+   "style": "excel",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "焊接钢管SC50",
+     "qty": 356,
+     "unit_price": 30.67,
+     "delivery_days": 5,
+     "round1_price": 35.46
+    },
+    {
+     "name": "铝合金型材4040",
+     "qty": 55,
+     "unit_price": 29.22,
+     "delivery_days": 6,
+     "round1_price": 32.86
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 152,
+     "unit_price": 0.99,
+     "delivery_days": 19,
+     "round1_price": 1.18,
+     "variant": "热缩管Φ10（国标）"
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0004": {
+  "supplier_08@local.test": {
+   "style": "body",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 160,
+     "unit_price": 36.57,
+     "delivery_days": 16,
+     "round1_price": 44.78,
+     "variant": "铝合金型材4040（优质）"
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 55,
+     "unit_price": 2.12,
+     "delivery_days": 18,
+     "round1_price": 2.65
+    },
+    {
+     "name": "液压油46#",
+     "qty": 464,
+     "unit_price": 462.12,
+     "delivery_days": 6,
+     "round1_price": 498.81
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 167,
+     "unit_price": 0.78,
+     "delivery_days": 17,
+     "round1_price": 0.97
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 69,
+     "unit_price": 0.34,
+     "delivery_days": 4,
+     "round1_price": 0.42,
+     "variant": "不锈钢垫片（国标）"
+    }
+   ]
+  },
+  "supplier_10@local.test": {
+   "style": "pdf",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 160,
+     "unit_price": 24.5,
+     "delivery_days": 7,
+     "round1_price": 27.78,
+     "variant": "铝合金型材4040（国标）"
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 55,
+     "unit_price": 1.8,
+     "delivery_days": 7,
+     "round1_price": 2.21,
+     "variant": "绝缘胶带（优质）"
+    },
+    {
+     "name": "液压油46#",
+     "qty": 464,
+     "unit_price": 358.3,
+     "delivery_days": 4,
+     "round1_price": 437.34
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 167,
+     "unit_price": 1.17,
+     "delivery_days": 10,
+     "round1_price": 1.45
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 69,
+     "unit_price": 0.4,
+     "delivery_days": 13,
+     "round1_price": 0.45
+    }
+   ]
+  },
+  "supplier_06@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 160,
+     "unit_price": 34.16,
+     "delivery_days": 18
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 55,
+     "unit_price": 1.63,
+     "delivery_days": 20
+    },
+    {
+     "name": "液压油46#",
+     "qty": 464,
+     "unit_price": 341.98,
+     "delivery_days": 14
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 167,
+     "unit_price": 1.02,
+     "delivery_days": 6,
+     "variant": "热缩管Φ10"
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 69,
+     "unit_price": 0.47,
+     "delivery_days": 16,
+     "variant": "不锈钢垫片"
+    }
+   ]
+  },
+  "supplier_02@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 160,
+     "unit_price": 24.05,
+     "delivery_days": 19,
+     "variant": "铝合金型材4040"
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 55,
+     "unit_price": 1.7,
+     "delivery_days": 5
+    },
+    {
+     "name": "液压油46#",
+     "qty": 464,
+     "unit_price": 353.27,
+     "delivery_days": 19
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 167,
+     "unit_price": 1.02,
+     "delivery_days": 18
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 69,
+     "unit_price": 0.34,
+     "delivery_days": 4
+    }
+   ]
+  },
+  "supplier_07@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 160,
+     "unit_price": 24.45,
+     "delivery_days": 10
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 55,
+     "unit_price": 2.42,
+     "delivery_days": 16,
+     "variant": "绝缘胶带"
+    },
+    {
+     "name": "液压油46#",
+     "qty": 464,
+     "unit_price": 460.07,
+     "delivery_days": 17
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 167,
+     "unit_price": 0.87,
+     "delivery_days": 21
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 69,
+     "unit_price": 0.45,
+     "delivery_days": 9,
+     "variant": "不锈钢垫片"
+    }
+   ]
+  },
+  "supplier_03@local.test": {
+   "style": "body",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 160,
+     "unit_price": 25.7,
+     "delivery_days": 10,
+     "round1_price": 31.31,
+     "variant": "铝合金型材4040（优质）"
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 55,
+     "unit_price": 1.84,
+     "delivery_days": 5,
+     "round1_price": 2.06
+    },
+    {
+     "name": "液压油46#",
+     "qty": 464,
+     "unit_price": 411.88,
+     "delivery_days": 16,
+     "round1_price": 497.71
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 167,
+     "unit_price": 0.77,
+     "delivery_days": 3,
+     "round1_price": 0.96
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 69,
+     "unit_price": 0.41,
+     "delivery_days": 21,
+     "round1_price": 0.51
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0005": {
+  "supplier_07@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "深沟球轴承6204",
+     "qty": 122,
+     "unit_price": 14.57,
+     "delivery_days": 11,
+     "variant": "深沟球轴承6204"
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 428,
+     "unit_price": 46.1,
+     "delivery_days": 2
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 239,
+     "unit_price": 5.99,
+     "delivery_days": 13,
+     "variant": "PVC线槽40X25"
+    }
+   ]
+  },
+  "supplier_08@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "深沟球轴承6204",
+     "qty": 122,
+     "unit_price": 12.5,
+     "delivery_days": 17
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 428,
+     "unit_price": 46.99,
+     "delivery_days": 19
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 239,
+     "unit_price": 3.99,
+     "delivery_days": 16
+    }
+   ]
+  },
+  "supplier_05@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 2,
+   "items": [
+    {
+     "name": "深沟球轴承6204",
+     "qty": 122,
+     "unit_price": 13.54,
+     "delivery_days": 2,
+     "variant": "深沟球轴承6204（加厚）"
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 428,
+     "unit_price": 40.01,
+     "delivery_days": 6
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 239,
+     "unit_price": 4.52,
+     "delivery_days": 16
+    }
+   ]
+  },
+  "supplier_04@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "深沟球轴承6204",
+     "qty": 122,
+     "unit_price": 15.73,
+     "delivery_days": 17,
+     "variant": "深沟球轴承6204"
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 428,
+     "unit_price": 58.78,
+     "delivery_days": 7
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 239,
+     "unit_price": 5.43,
+     "delivery_days": 3
+    }
+   ]
+  },
+  "supplier_01@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "深沟球轴承6204",
+     "qty": 122,
+     "unit_price": 14.53,
+     "delivery_days": 8
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 428,
+     "unit_price": 40.71,
+     "delivery_days": 4
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 239,
+     "unit_price": 5.1,
+     "delivery_days": 18,
+     "variant": "PVC线槽40*25（国标）"
+    }
+   ]
+  },
+  "supplier_06@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "深沟球轴承6204",
+     "qty": 122,
+     "unit_price": 10.83,
+     "delivery_days": 12,
+     "variant": "深沟球轴承6204"
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 428,
+     "unit_price": 48.39,
+     "delivery_days": 7
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 239,
+     "unit_price": 6.07,
+     "delivery_days": 12,
+     "variant": "PVC线槽40×25"
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0006": {
+  "supplier_05@local.test": {
+   "style": "excel",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "触摸屏7寸",
+     "qty": 239,
+     "unit_price": 544.71,
+     "delivery_days": 19,
+     "round1_price": 583.49
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 196,
+     "unit_price": 1.09,
+     "delivery_days": 16,
+     "round1_price": 1.34,
+     "variant": "热缩管Φ10"
+    },
+    {
+     "name": "接触器220V",
+     "qty": 15,
+     "unit_price": 87.5,
+     "delivery_days": 3,
+     "round1_price": 103.14
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 336,
+     "unit_price": 32.69,
+     "delivery_days": 6,
+     "round1_price": 35.13
+    }
+   ]
+  },
+  "supplier_04@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "触摸屏7寸",
+     "qty": 239,
+     "unit_price": 469.18,
+     "delivery_days": 5
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 196,
+     "unit_price": 0.84,
+     "delivery_days": 14
+    },
+    {
+     "name": "接触器220V",
+     "qty": 15,
+     "unit_price": 84.8,
+     "delivery_days": 8
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 336,
+     "unit_price": 29.98,
+     "delivery_days": 20
+    }
+   ]
+  },
+  "supplier_09@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "触摸屏7寸",
+     "qty": 239,
+     "unit_price": 579.62,
+     "delivery_days": 20,
+     "variant": "触摸屏7寸（镀锌）"
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 196,
+     "unit_price": 1.0,
+     "delivery_days": 4,
+     "variant": "热缩管Φ10（优质）"
+    },
+    {
+     "name": "接触器220V",
+     "qty": 15,
+     "unit_price": 73.96,
+     "delivery_days": 4
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 336,
+     "unit_price": 41.34,
+     "delivery_days": 17,
+     "variant": "焊接钢管ＳＣ５０"
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0007": {
+  "supplier_02@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 2,
+   "items": [
+    {
+     "name": "空气开关C32",
+     "qty": 52,
+     "unit_price": 21.51,
+     "delivery_days": 11,
+     "variant": "空气开关C32（优质）"
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 356,
+     "unit_price": 3.18,
+     "delivery_days": 10,
+     "variant": "铜芯电缆２．５平方"
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 68,
+     "unit_price": 2.01,
+     "delivery_days": 11
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 127,
+     "unit_price": 14.99,
+     "delivery_days": 3,
+     "variant": "深沟球轴承 6204"
+    }
+   ]
+  },
+  "supplier_10@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "空气开关C32",
+     "qty": 52,
+     "unit_price": 18.32,
+     "delivery_days": 2,
+     "variant": "空气开关C32（优质）"
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 356,
+     "unit_price": 4.19,
+     "delivery_days": 15,
+     "variant": "铜芯电缆2.5平方（优质）"
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 68,
+     "unit_price": 2.36,
+     "delivery_days": 10
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 127,
+     "unit_price": 13.17,
+     "delivery_days": 11
+    }
+   ]
+  },
+  "supplier_08@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "空气开关C32",
+     "qty": 52,
+     "unit_price": 15.54,
+     "delivery_days": 13
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 356,
+     "unit_price": 2.9,
+     "delivery_days": 15
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 68,
+     "unit_price": 1.73,
+     "delivery_days": 3
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 127,
+     "unit_price": 15.05,
+     "delivery_days": 4
+    }
+   ]
+  },
+  "supplier_06@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "空气开关C32",
+     "qty": 52,
+     "unit_price": 23.44,
+     "delivery_days": 3
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 356,
+     "unit_price": 3.51,
+     "delivery_days": 18
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 68,
+     "unit_price": 2.27,
+     "delivery_days": 5
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 127,
+     "unit_price": 13.61,
+     "delivery_days": 4,
+     "variant": "深沟球轴承 6204"
+    }
+   ]
+  },
+  "supplier_09@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "空气开关C32",
+     "qty": 52,
+     "unit_price": 15.99,
+     "delivery_days": 17
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 356,
+     "unit_price": 3.33,
+     "delivery_days": 18
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 68,
+     "unit_price": 2.09,
+     "delivery_days": 10,
+     "variant": "绝缘胶带"
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 127,
+     "unit_price": 12.62,
+     "delivery_days": 2
+    }
+   ]
+  },
+  "supplier_07@local.test": {
+   "style": "pdf",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "空气开关C32",
+     "qty": 52,
+     "unit_price": 23.57,
+     "delivery_days": 15,
+     "round1_price": 28.13,
+     "variant": "空气开关 C32"
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 356,
+     "unit_price": 2.95,
+     "delivery_days": 6,
+     "round1_price": 3.21
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 68,
+     "unit_price": 2.2,
+     "delivery_days": 17,
+     "round1_price": 2.36
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 127,
+     "unit_price": 12.23,
+     "delivery_days": 14,
+     "round1_price": 13.98
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0008": {
+  "supplier_08@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "液压油46#",
+     "qty": 130,
+     "unit_price": 454.94,
+     "delivery_days": 12
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 46,
+     "unit_price": 4.88,
+     "delivery_days": 18,
+     "variant": "PVC线槽40X25"
+    },
+    {
+     "name": "触摸屏7寸",
+     "qty": 109,
+     "unit_price": 570.01,
+     "delivery_days": 15,
+     "variant": "触摸屏 7寸"
+    },
+    {
+     "name": "伺服电机750W",
+     "qty": 46,
+     "unit_price": 1270.51,
+     "delivery_days": 4
+    },
+    {
+     "name": "铝合金型材4040",
+     "qty": 284,
+     "unit_price": 24.56,
+     "delivery_days": 20
+    }
+   ]
+  },
+  "supplier_09@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 0,
+   "items": [
+    {
+     "name": "液压油46#",
+     "qty": 130,
+     "unit_price": 445.7,
+     "delivery_days": 11,
+     "variant": "液压油 46#"
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 46,
+     "unit_price": 5.68,
+     "delivery_days": 2,
+     "variant": "ＰＶＣ线槽４０＊２５"
+    },
+    {
+     "name": "触摸屏7寸",
+     "qty": 109,
+     "unit_price": 385.82,
+     "delivery_days": 18,
+     "variant": "触摸屏 7寸"
+    },
+    {
+     "name": "伺服电机750W",
+     "qty": 46,
+     "unit_price": 1423.8,
+     "delivery_days": 21
+    },
+    {
+     "name": "铝合金型材4040",
+     "qty": 284,
+     "unit_price": 24.44,
+     "delivery_days": 9
+    }
+   ]
+  },
+  "supplier_07@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "液压油46#",
+     "qty": 130,
+     "unit_price": 472.03,
+     "delivery_days": 21,
+     "variant": "液压油４６＃"
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 46,
+     "unit_price": 3.89,
+     "delivery_days": 5,
+     "variant": "PVC线槽40*25（加厚）"
+    },
+    {
+     "name": "触摸屏7寸",
+     "qty": 109,
+     "unit_price": 392.85,
+     "delivery_days": 3
+    },
+    {
+     "name": "伺服电机750W",
+     "qty": 46,
+     "unit_price": 1480.68,
+     "delivery_days": 8
+    },
+    {
+     "name": "铝合金型材4040",
+     "qty": 284,
+     "unit_price": 32.94,
+     "delivery_days": 3
+    }
+   ]
+  },
+  "supplier_04@local.test": {
+   "style": "body",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "液压油46#",
+     "qty": 130,
+     "unit_price": 394.76,
+     "delivery_days": 14,
+     "round1_price": 478.08,
+     "variant": "液压油 46#"
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 46,
+     "unit_price": 4.73,
+     "delivery_days": 7,
+     "round1_price": 5.87
+    },
+    {
+     "name": "触摸屏7寸",
+     "qty": 109,
+     "unit_price": 404.12,
+     "delivery_days": 3,
+     "round1_price": 468.31,
+     "variant": "触摸屏7寸"
+    },
+    {
+     "name": "伺服电机750W",
+     "qty": 46,
+     "unit_price": 1433.33,
+     "delivery_days": 9,
+     "round1_price": 1674.15,
+     "variant": "伺服电机750W"
+    },
+    {
+     "name": "铝合金型材4040",
+     "qty": 284,
+     "unit_price": 31.16,
+     "delivery_days": 18,
+     "round1_price": 33.66
+    }
+   ]
+  },
+  "supplier_03@local.test": {
+   "style": "body",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "液压油46#",
+     "qty": 130,
+     "unit_price": 366.04,
+     "delivery_days": 7,
+     "round1_price": 420.73
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 46,
+     "unit_price": 5.62,
+     "delivery_days": 18,
+     "round1_price": 6.48,
+     "variant": "PVC线槽 40*25"
+    },
+    {
+     "name": "触摸屏7寸",
+     "qty": 109,
+     "unit_price": 440.68,
+     "delivery_days": 7,
+     "round1_price": 497.29
+    },
+    {
+     "name": "伺服电机750W",
+     "qty": 46,
+     "unit_price": 1265.73,
+     "delivery_days": 21,
+     "round1_price": 1450.65
+    },
+    {
+     "name": "铝合金型材4040",
+     "qty": 284,
+     "unit_price": 33.5,
+     "delivery_days": 8,
+     "round1_price": 35.7,
+     "variant": "铝合金型材 4040"
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0009": {
+  "supplier_03@local.test": {
+   "style": "excel",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "PVC线槽40*25",
+     "qty": 232,
+     "unit_price": 5.49,
+     "delivery_days": 7,
+     "round1_price": 6.34
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 297,
+     "unit_price": 32.17,
+     "delivery_days": 20,
+     "round1_price": 34.52
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 292,
+     "unit_price": 3.65,
+     "delivery_days": 5,
+     "round1_price": 4.12
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 125,
+     "unit_price": 13.11,
+     "delivery_days": 5,
+     "round1_price": 15.44
+    }
+   ]
+  },
+  "supplier_09@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "PVC线槽40*25",
+     "qty": 232,
+     "unit_price": 4.6,
+     "delivery_days": 7
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 297,
+     "unit_price": 34.84,
+     "delivery_days": 20,
+     "variant": "焊接钢管SC50（优质）"
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 292,
+     "unit_price": 3.22,
+     "delivery_days": 16,
+     "variant": "铜芯电缆2.5平方"
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 125,
+     "unit_price": 14.71,
+     "delivery_days": 12
+    }
+   ]
+  },
+  "supplier_02@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "PVC线槽40*25",
+     "qty": 232,
+     "unit_price": 3.97,
+     "delivery_days": 15
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 297,
+     "unit_price": 35.48,
+     "delivery_days": 2
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 292,
+     "unit_price": 3.09,
+     "delivery_days": 5,
+     "variant": "铜芯电缆２．５平方"
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 125,
+     "unit_price": 11.44,
+     "delivery_days": 12
+    }
+   ]
+  },
+  "supplier_07@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "PVC线槽40*25",
+     "qty": 232,
+     "unit_price": 5.72,
+     "delivery_days": 15
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 297,
+     "unit_price": 33.86,
+     "delivery_days": 6
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 292,
+     "unit_price": 4.27,
+     "delivery_days": 18
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 125,
+     "unit_price": 15.01,
+     "delivery_days": 4
+    }
+   ]
+  },
+  "supplier_01@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "PVC线槽40*25",
+     "qty": 232,
+     "unit_price": 4.01,
+     "delivery_days": 13,
+     "variant": "PVC线槽40*25（优质）"
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 297,
+     "unit_price": 31.39,
+     "delivery_days": 18,
+     "variant": "焊接钢管ＳＣ５０"
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 292,
+     "unit_price": 4.28,
+     "delivery_days": 7
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 125,
+     "unit_price": 13.64,
+     "delivery_days": 14
+    }
+   ]
+  },
+  "supplier_06@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "PVC线槽40*25",
+     "qty": 232,
+     "unit_price": 4.45,
+     "delivery_days": 6
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 297,
+     "unit_price": 32.83,
+     "delivery_days": 7
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 292,
+     "unit_price": 3.58,
+     "delivery_days": 16
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 125,
+     "unit_price": 12.46,
+     "delivery_days": 7,
+     "variant": "深沟球轴承6204"
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0010": {
+  "supplier_08@local.test": {
+   "style": "excel",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "空气开关C32",
+     "qty": 307,
+     "unit_price": 23.86,
+     "delivery_days": 4,
+     "round1_price": 25.08,
+     "variant": "空气开关Ｃ３２"
+    },
+    {
+     "name": "伺服电机750W",
+     "qty": 106,
+     "unit_price": 1035.12,
+     "delivery_days": 7,
+     "round1_price": 1222.56,
+     "variant": "伺服电机750W（镀锌）"
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 93,
+     "unit_price": 1.0,
+     "delivery_days": 7,
+     "round1_price": 1.2
+    },
+    {
+     "name": "触摸屏7寸",
+     "qty": 281,
+     "unit_price": 565.4,
+     "delivery_days": 13,
+     "round1_price": 648.65,
+     "variant": "触摸屏７寸"
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 185,
+     "unit_price": 1.65,
+     "delivery_days": 17,
+     "round1_price": 1.97
+    }
+   ]
+  },
+  "supplier_09@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "空气开关C32",
+     "qty": 307,
+     "unit_price": 19.77,
+     "delivery_days": 13
+    },
+    {
+     "name": "伺服电机750W",
+     "qty": 106,
+     "unit_price": 1612.26,
+     "delivery_days": 2,
+     "variant": "伺服电机７５０Ｗ"
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 93,
+     "unit_price": 0.93,
+     "delivery_days": 13
+    },
+    {
+     "name": "触摸屏7寸",
+     "qty": 281,
+     "unit_price": 410.76,
+     "delivery_days": 16
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 185,
+     "unit_price": 2.29,
+     "delivery_days": 5
+    }
+   ]
+  },
+  "supplier_10@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "空气开关C32",
+     "qty": 307,
+     "unit_price": 22.53,
+     "delivery_days": 7
+    },
+    {
+     "name": "伺服电机750W",
+     "qty": 106,
+     "unit_price": 1605.3,
+     "delivery_days": 9
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 93,
+     "unit_price": 1.2,
+     "delivery_days": 13,
+     "variant": "热缩管Φ10"
+    },
+    {
+     "name": "触摸屏7寸",
+     "qty": 281,
+     "unit_price": 479.11,
+     "delivery_days": 14
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 185,
+     "unit_price": 1.84,
+     "delivery_days": 4,
+     "variant": "绝缘胶带"
+    }
+   ]
+  },
+  "supplier_02@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "空气开关C32",
+     "qty": 307,
+     "unit_price": 20.72,
+     "delivery_days": 3,
+     "variant": "空气开关 C32"
+    },
+    {
+     "name": "伺服电机750W",
+     "qty": 106,
+     "unit_price": 1285.28,
+     "delivery_days": 2
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 93,
+     "unit_price": 0.86,
+     "delivery_days": 16
+    },
+    {
+     "name": "触摸屏7寸",
+     "qty": 281,
+     "unit_price": 586.83,
+     "delivery_days": 13
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 185,
+     "unit_price": 1.9,
+     "delivery_days": 6
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0011": {
+  "supplier_06@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 108,
+     "unit_price": 27.83,
+     "delivery_days": 16
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 191,
+     "unit_price": 22.25,
+     "delivery_days": 21
+    },
+    {
+     "name": "伺服电机750W",
+     "qty": 232,
+     "unit_price": 1195.53,
+     "delivery_days": 7
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 477,
+     "unit_price": 60.75,
+     "delivery_days": 14
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 29,
+     "unit_price": 3.03,
+     "delivery_days": 6
+    }
+   ]
+  },
+  "supplier_03@local.test": {
+   "style": "excel",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 108,
+     "unit_price": 37.71,
+     "delivery_days": 14,
+     "round1_price": 43.59
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 191,
+     "unit_price": 21.65,
+     "delivery_days": 18,
+     "round1_price": 25.63
+    },
+    {
+     "name": "伺服电机750W",
+     "qty": 232,
+     "unit_price": 1362.37,
+     "delivery_days": 16,
+     "round1_price": 1587.54
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 477,
+     "unit_price": 46.28,
+     "delivery_days": 6,
+     "round1_price": 51.45
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 29,
+     "unit_price": 2.25,
+     "delivery_days": 10,
+     "round1_price": 2.81,
+     "variant": "六角螺栓Ｍ８＊３０"
+    }
+   ]
+  },
+  "supplier_04@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 0,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 108,
+     "unit_price": 23.83,
+     "delivery_days": 12
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 191,
+     "unit_price": 26.74,
+     "delivery_days": 17
+    },
+    {
+     "name": "伺服电机750W",
+     "qty": 232,
+     "unit_price": 1162.55,
+     "delivery_days": 18
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 477,
+     "unit_price": 59.19,
+     "delivery_days": 12,
+     "variant": "无缝钢管 DN50"
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 29,
+     "unit_price": 2.6,
+     "delivery_days": 16
+    }
+   ]
+  },
+  "supplier_08@local.test": {
+   "style": "body",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 108,
+     "unit_price": 33.26,
+     "delivery_days": 15,
+     "round1_price": 40.63
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 191,
+     "unit_price": 26.79,
+     "delivery_days": 17,
+     "round1_price": 29.96,
+     "variant": "同步带5M-500（国标）"
+    },
+    {
+     "name": "伺服电机750W",
+     "qty": 232,
+     "unit_price": 1197.26,
+     "delivery_days": 10,
+     "round1_price": 1486.11
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 477,
+     "unit_price": 40.41,
+     "delivery_days": 5,
+     "round1_price": 46.48,
+     "variant": "无缝钢管DN50"
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 29,
+     "unit_price": 2.23,
+     "delivery_days": 10,
+     "round1_price": 2.62
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0012": {
+  "supplier_10@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "液压油46#",
+     "qty": 451,
+     "unit_price": 374.08,
+     "delivery_days": 5
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 43,
+     "unit_price": 2.3,
+     "delivery_days": 18
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 205,
+     "unit_price": 4.53,
+     "delivery_days": 4
+    }
+   ]
+  },
+  "supplier_01@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 2,
+   "items": [
+    {
+     "name": "液压油46#",
+     "qty": 451,
+     "unit_price": 464.55,
+     "delivery_days": 10
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 43,
+     "unit_price": 2.26,
+     "delivery_days": 6
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 205,
+     "unit_price": 3.98,
+     "delivery_days": 15,
+     "variant": "ＰＶＣ线槽４０＊２５"
+    }
+   ]
+  },
+  "supplier_07@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "液压油46#",
+     "qty": 451,
+     "unit_price": 329.66,
+     "delivery_days": 7
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 43,
+     "unit_price": 2.47,
+     "delivery_days": 4
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 205,
+     "unit_price": 3.84,
+     "delivery_days": 9
+    }
+   ]
+  },
+  "supplier_08@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 2,
+   "items": [
+    {
+     "name": "液压油46#",
+     "qty": 451,
+     "unit_price": 325.47,
+     "delivery_days": 12
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 43,
+     "unit_price": 2.29,
+     "delivery_days": 2,
+     "variant": "六角螺栓M8*30（国标）"
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 205,
+     "unit_price": 5.49,
+     "delivery_days": 19
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0013": {
+  "supplier_08@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 0,
+   "items": [
+    {
+     "name": "无缝钢管DN50",
+     "qty": 23,
+     "unit_price": 49.16,
+     "delivery_days": 4
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 94,
+     "unit_price": 19.89,
+     "delivery_days": 15
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 323,
+     "unit_price": 1.06,
+     "delivery_days": 6
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 82,
+     "unit_price": 16.07,
+     "delivery_days": 2,
+     "variant": "深沟球轴承6204"
+    }
+   ]
+  },
+  "supplier_02@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "无缝钢管DN50",
+     "qty": 23,
+     "unit_price": 57.01,
+     "delivery_days": 12
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 94,
+     "unit_price": 28.37,
+     "delivery_days": 2,
+     "variant": "同步带5M-500"
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 323,
+     "unit_price": 0.87,
+     "delivery_days": 9
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 82,
+     "unit_price": 15.22,
+     "delivery_days": 12
+    }
+   ]
+  },
+  "supplier_06@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "无缝钢管DN50",
+     "qty": 23,
+     "unit_price": 51.19,
+     "delivery_days": 14
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 94,
+     "unit_price": 27.49,
+     "delivery_days": 5,
+     "variant": "同步带 5M-500"
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 323,
+     "unit_price": 0.79,
+     "delivery_days": 4
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 82,
+     "unit_price": 12.7,
+     "delivery_days": 9
+    }
+   ]
+  },
+  "supplier_03@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "无缝钢管DN50",
+     "qty": 23,
+     "unit_price": 43.3,
+     "delivery_days": 19
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 94,
+     "unit_price": 24.65,
+     "delivery_days": 17,
+     "variant": "同步带5M-500"
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 323,
+     "unit_price": 1.17,
+     "delivery_days": 11
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 82,
+     "unit_price": 10.41,
+     "delivery_days": 9,
+     "variant": "深沟球轴承6204"
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0014": {
+  "supplier_07@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "同步带5M-500",
+     "qty": 109,
+     "unit_price": 22.51,
+     "delivery_days": 9,
+     "variant": "同步带5M-500（国标）"
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 189,
+     "unit_price": 45.5,
+     "delivery_days": 8,
+     "variant": "无缝钢管DN50（加厚）"
+    },
+    {
+     "name": "触摸屏7寸",
+     "qty": 39,
+     "unit_price": 382.71,
+     "delivery_days": 19,
+     "variant": "触摸屏7寸"
+    }
+   ]
+  },
+  "supplier_06@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "同步带5M-500",
+     "qty": 109,
+     "unit_price": 19.89,
+     "delivery_days": 9
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 189,
+     "unit_price": 41.73,
+     "delivery_days": 19
+    },
+    {
+     "name": "触摸屏7寸",
+     "qty": 39,
+     "unit_price": 535.69,
+     "delivery_days": 20,
+     "variant": "触摸屏7寸（国标）"
+    }
+   ]
+  },
+  "supplier_03@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "同步带5M-500",
+     "qty": 109,
+     "unit_price": 18.76,
+     "delivery_days": 7,
+     "variant": "同步带5M-500（优质）"
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 189,
+     "unit_price": 42.2,
+     "delivery_days": 4,
+     "variant": "无缝钢管DN50（加厚）"
+    },
+    {
+     "name": "触摸屏7寸",
+     "qty": 39,
+     "unit_price": 553.08,
+     "delivery_days": 15
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0015": {
+  "supplier_03@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 143,
+     "unit_price": 33.83,
+     "delivery_days": 6,
+     "variant": "铝合金型材4040（加厚）"
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 414,
+     "unit_price": 4.12,
+     "delivery_days": 10
+    }
+   ]
+  },
+  "supplier_10@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 143,
+     "unit_price": 27.87,
+     "delivery_days": 10,
+     "variant": "铝合金型材4040"
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 414,
+     "unit_price": 3.82,
+     "delivery_days": 6,
+     "variant": "铜芯电缆２．５平方"
+    }
+   ]
+  },
+  "supplier_01@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 143,
+     "unit_price": 28.64,
+     "delivery_days": 20,
+     "variant": "铝合金型材 4040"
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 414,
+     "unit_price": 3.84,
+     "delivery_days": 16
+    }
+   ]
+  },
+  "supplier_02@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 143,
+     "unit_price": 33.48,
+     "delivery_days": 18,
+     "variant": "铝合金型材4040（优质）"
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 414,
+     "unit_price": 3.58,
+     "delivery_days": 2,
+     "variant": "铜芯电缆２．５平方"
+    }
+   ]
+  },
+  "supplier_09@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 143,
+     "unit_price": 33.52,
+     "delivery_days": 6
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 414,
+     "unit_price": 2.94,
+     "delivery_days": 16,
+     "variant": "铜芯电缆２．５平方"
+    }
+   ]
+  },
+  "supplier_06@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 143,
+     "unit_price": 30.69,
+     "delivery_days": 4
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 414,
+     "unit_price": 4.27,
+     "delivery_days": 5,
+     "variant": "铜芯电缆2.5平方"
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0016": {
+  "supplier_02@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "热缩管Φ10",
+     "qty": 261,
+     "unit_price": 0.82,
+     "delivery_days": 8,
+     "variant": "热缩管Φ10"
+    },
+    {
+     "name": "铝合金型材4040",
+     "qty": 371,
+     "unit_price": 24.07,
+     "delivery_days": 15
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 472,
+     "unit_price": 3.91,
+     "delivery_days": 15
+    },
+    {
+     "name": "液压油46#",
+     "qty": 467,
+     "unit_price": 382.48,
+     "delivery_days": 9,
+     "variant": "液压油４６＃"
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 392,
+     "unit_price": 2.34,
+     "delivery_days": 19
+    }
+   ]
+  },
+  "supplier_05@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 2,
+   "items": [
+    {
+     "name": "热缩管Φ10",
+     "qty": 261,
+     "unit_price": 1.18,
+     "delivery_days": 7
+    },
+    {
+     "name": "铝合金型材4040",
+     "qty": 371,
+     "unit_price": 28.48,
+     "delivery_days": 18
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 472,
+     "unit_price": 4.05,
+     "delivery_days": 4
+    },
+    {
+     "name": "液压油46#",
+     "qty": 467,
+     "unit_price": 380.68,
+     "delivery_days": 2,
+     "variant": "液压油46#"
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 392,
+     "unit_price": 2.34,
+     "delivery_days": 19
+    }
+   ]
+  },
+  "supplier_04@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "热缩管Φ10",
+     "qty": 261,
+     "unit_price": 1.01,
+     "delivery_days": 17
+    },
+    {
+     "name": "铝合金型材4040",
+     "qty": 371,
+     "unit_price": 29.92,
+     "delivery_days": 8
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 472,
+     "unit_price": 4.17,
+     "delivery_days": 12
+    },
+    {
+     "name": "液压油46#",
+     "qty": 467,
+     "unit_price": 368.47,
+     "delivery_days": 4
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 392,
+     "unit_price": 1.54,
+     "delivery_days": 10
+    }
+   ]
+  },
+  "supplier_08@local.test": {
+   "style": "body",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "热缩管Φ10",
+     "qty": 261,
+     "unit_price": 0.98,
+     "delivery_days": 14,
+     "round1_price": 1.06
+    },
+    {
+     "name": "铝合金型材4040",
+     "qty": 371,
+     "unit_price": 26.83,
+     "delivery_days": 16,
+     "round1_price": 29.49
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 472,
+     "unit_price": 2.81,
+     "delivery_days": 10,
+     "round1_price": 3.0
+    },
+    {
+     "name": "液压油46#",
+     "qty": 467,
+     "unit_price": 343.91,
+     "delivery_days": 9,
+     "round1_price": 393.28
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 392,
+     "unit_price": 2.36,
+     "delivery_days": 4,
+     "round1_price": 2.84
+    }
+   ]
+  },
+  "supplier_01@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 0,
+   "items": [
+    {
+     "name": "热缩管Φ10",
+     "qty": 261,
+     "unit_price": 1.11,
+     "delivery_days": 14
+    },
+    {
+     "name": "铝合金型材4040",
+     "qty": 371,
+     "unit_price": 32.46,
+     "delivery_days": 4
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 472,
+     "unit_price": 2.83,
+     "delivery_days": 17
+    },
+    {
+     "name": "液压油46#",
+     "qty": 467,
+     "unit_price": 509.09,
+     "delivery_days": 6,
+     "variant": "液压油46#"
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 392,
+     "unit_price": 1.86,
+     "delivery_days": 8,
+     "variant": "绝缘胶带（镀锌）"
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0017": {
+  "supplier_04@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "伺服电机750W",
+     "qty": 220,
+     "unit_price": 1581.86,
+     "delivery_days": 2
+    },
+    {
+     "name": "铝合金型材4040",
+     "qty": 458,
+     "unit_price": 31.87,
+     "delivery_days": 9
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 36,
+     "unit_price": 12.25,
+     "delivery_days": 21
+    }
+   ]
+  },
+  "supplier_06@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "伺服电机750W",
+     "qty": 220,
+     "unit_price": 1485.8,
+     "delivery_days": 2,
+     "variant": "伺服电机750W（优质）"
+    },
+    {
+     "name": "铝合金型材4040",
+     "qty": 458,
+     "unit_price": 32.99,
+     "delivery_days": 10
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 36,
+     "unit_price": 14.51,
+     "delivery_days": 21,
+     "variant": "深沟球轴承6204"
+    }
+   ]
+  },
+  "supplier_05@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 2,
+   "items": [
+    {
+     "name": "伺服电机750W",
+     "qty": 220,
+     "unit_price": 1068.83,
+     "delivery_days": 16
+    },
+    {
+     "name": "铝合金型材4040",
+     "qty": 458,
+     "unit_price": 29.17,
+     "delivery_days": 5,
+     "variant": "铝合金型材４０４０"
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 36,
+     "unit_price": 10.61,
+     "delivery_days": 2
+    }
+   ]
+  },
+  "supplier_10@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "伺服电机750W",
+     "qty": 220,
+     "unit_price": 1068.44,
+     "delivery_days": 20
+    },
+    {
+     "name": "铝合金型材4040",
+     "qty": 458,
+     "unit_price": 28.22,
+     "delivery_days": 11
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 36,
+     "unit_price": 10.83,
+     "delivery_days": 9
+    }
+   ]
+  },
+  "supplier_02@local.test": {
+   "style": "body",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "伺服电机750W",
+     "qty": 220,
+     "unit_price": 1577.9,
+     "delivery_days": 21,
+     "round1_price": 1850.05
+    },
+    {
+     "name": "铝合金型材4040",
+     "qty": 458,
+     "unit_price": 26.74,
+     "delivery_days": 20,
+     "round1_price": 29.89
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 36,
+     "unit_price": 15.99,
+     "delivery_days": 12,
+     "round1_price": 19.07
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0018": {
+  "supplier_08@local.test": {
+   "style": "excel",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "无缝钢管DN50",
+     "qty": 136,
+     "unit_price": 57.23,
+     "delivery_days": 15,
+     "round1_price": 60.31,
+     "variant": "无缝钢管 DN50"
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 456,
+     "unit_price": 0.44,
+     "delivery_days": 21,
+     "round1_price": 0.47
+    }
+   ]
+  },
+  "supplier_07@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "无缝钢管DN50",
+     "qty": 136,
+     "unit_price": 53.62,
+     "delivery_days": 6
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 456,
+     "unit_price": 0.39,
+     "delivery_days": 16,
+     "variant": "不锈钢垫片"
+    }
+   ]
+  },
+  "supplier_02@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "无缝钢管DN50",
+     "qty": 136,
+     "unit_price": 55.27,
+     "delivery_days": 5
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 456,
+     "unit_price": 0.4,
+     "delivery_days": 14,
+     "variant": "不锈钢垫片"
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0019": {
+  "supplier_06@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "接触器220V",
+     "qty": 106,
+     "unit_price": 86.88,
+     "delivery_days": 20
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 214,
+     "unit_price": 27.32,
+     "delivery_days": 20
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 392,
+     "unit_price": 35.3,
+     "delivery_days": 15
+    }
+   ]
+  },
+  "supplier_02@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "接触器220V",
+     "qty": 106,
+     "unit_price": 76.9,
+     "delivery_days": 19
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 214,
+     "unit_price": 21.89,
+     "delivery_days": 7
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 392,
+     "unit_price": 28.7,
+     "delivery_days": 14,
+     "variant": "焊接钢管SC50（镀锌）"
+    }
+   ]
+  },
+  "supplier_08@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "接触器220V",
+     "qty": 106,
+     "unit_price": 77.33,
+     "delivery_days": 2
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 214,
+     "unit_price": 23.24,
+     "delivery_days": 17
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 392,
+     "unit_price": 31.95,
+     "delivery_days": 19,
+     "variant": "焊接钢管SC50"
+    }
+   ]
+  },
+  "supplier_03@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "接触器220V",
+     "qty": 106,
+     "unit_price": 57.53,
+     "delivery_days": 3
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 214,
+     "unit_price": 24.3,
+     "delivery_days": 10
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 392,
+     "unit_price": 42.8,
+     "delivery_days": 14
+    }
+   ]
+  },
+  "supplier_04@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "接触器220V",
+     "qty": 106,
+     "unit_price": 78.33,
+     "delivery_days": 3
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 214,
+     "unit_price": 19.28,
+     "delivery_days": 14
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 392,
+     "unit_price": 38.87,
+     "delivery_days": 5
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0020": {
+  "supplier_10@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "热缩管Φ10",
+     "qty": 218,
+     "unit_price": 1.11,
+     "delivery_days": 9
+    },
+    {
+     "name": "液压油46#",
+     "qty": 237,
+     "unit_price": 338.68,
+     "delivery_days": 11,
+     "variant": "液压油46#"
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 491,
+     "unit_price": 0.36,
+     "delivery_days": 19,
+     "variant": "不锈钢垫片"
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 80,
+     "unit_price": 3.17,
+     "delivery_days": 11
+    }
+   ]
+  },
+  "supplier_05@local.test": {
+   "style": "excel",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "热缩管Φ10",
+     "qty": 218,
+     "unit_price": 1.01,
+     "delivery_days": 15,
+     "round1_price": 1.16,
+     "variant": "热缩管Φ１０"
+    },
+    {
+     "name": "液压油46#",
+     "qty": 237,
+     "unit_price": 331.94,
+     "delivery_days": 9,
+     "round1_price": 352.89,
+     "variant": "液压油46#（镀锌）"
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 491,
+     "unit_price": 0.4,
+     "delivery_days": 17,
+     "round1_price": 0.49
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 80,
+     "unit_price": 3.16,
+     "delivery_days": 21,
+     "round1_price": 3.95
+    }
+   ]
+  },
+  "supplier_08@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "热缩管Φ10",
+     "qty": 218,
+     "unit_price": 1.04,
+     "delivery_days": 11
+    },
+    {
+     "name": "液压油46#",
+     "qty": 237,
+     "unit_price": 454.91,
+     "delivery_days": 20
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 491,
+     "unit_price": 0.45,
+     "delivery_days": 2
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 80,
+     "unit_price": 3.17,
+     "delivery_days": 7
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0021": {
+  "supplier_10@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "液压油46#",
+     "qty": 356,
+     "unit_price": 478.49,
+     "delivery_days": 2,
+     "variant": "液压油 46#"
+    },
+    {
+     "name": "伺服电机750W",
+     "qty": 317,
+     "unit_price": 1538.33,
+     "delivery_days": 8
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 74,
+     "unit_price": 2.05,
+     "delivery_days": 6
+    },
+    {
+     "name": "触摸屏7寸",
+     "qty": 286,
+     "unit_price": 400.01,
+     "delivery_days": 20,
+     "variant": "触摸屏7寸"
+    }
+   ]
+  },
+  "supplier_09@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 2,
+   "items": [
+    {
+     "name": "液压油46#",
+     "qty": 356,
+     "unit_price": 459.58,
+     "delivery_days": 8
+    },
+    {
+     "name": "伺服电机750W",
+     "qty": 317,
+     "unit_price": 1046.44,
+     "delivery_days": 15
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 74,
+     "unit_price": 1.92,
+     "delivery_days": 14,
+     "variant": "绝缘胶带"
+    },
+    {
+     "name": "触摸屏7寸",
+     "qty": 286,
+     "unit_price": 535.17,
+     "delivery_days": 19
+    }
+   ]
+  },
+  "supplier_01@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "液压油46#",
+     "qty": 356,
+     "unit_price": 329.76,
+     "delivery_days": 9
+    },
+    {
+     "name": "伺服电机750W",
+     "qty": 317,
+     "unit_price": 1065.66,
+     "delivery_days": 15,
+     "variant": "伺服电机750W（镀锌）"
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 74,
+     "unit_price": 1.76,
+     "delivery_days": 20,
+     "variant": "绝缘胶带（镀锌）"
+    },
+    {
+     "name": "触摸屏7寸",
+     "qty": 286,
+     "unit_price": 509.97,
+     "delivery_days": 14
+    }
+   ]
+  },
+  "supplier_03@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "液压油46#",
+     "qty": 356,
+     "unit_price": 455.95,
+     "delivery_days": 10
+    },
+    {
+     "name": "伺服电机750W",
+     "qty": 317,
+     "unit_price": 1400.4,
+     "delivery_days": 10
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 74,
+     "unit_price": 2.3,
+     "delivery_days": 21,
+     "variant": "绝缘胶带"
+    },
+    {
+     "name": "触摸屏7寸",
+     "qty": 286,
+     "unit_price": 478.52,
+     "delivery_days": 16
+    }
+   ]
+  },
+  "supplier_08@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "液压油46#",
+     "qty": 356,
+     "unit_price": 511.77,
+     "delivery_days": 6
+    },
+    {
+     "name": "伺服电机750W",
+     "qty": 317,
+     "unit_price": 1211.98,
+     "delivery_days": 14
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 74,
+     "unit_price": 1.83,
+     "delivery_days": 4
+    },
+    {
+     "name": "触摸屏7寸",
+     "qty": 286,
+     "unit_price": 574.42,
+     "delivery_days": 5
+    }
+   ]
+  },
+  "supplier_07@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "液压油46#",
+     "qty": 356,
+     "unit_price": 377.2,
+     "delivery_days": 5
+    },
+    {
+     "name": "伺服电机750W",
+     "qty": 317,
+     "unit_price": 1502.95,
+     "delivery_days": 4
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 74,
+     "unit_price": 2.37,
+     "delivery_days": 19,
+     "variant": "绝缘胶带"
+    },
+    {
+     "name": "触摸屏7寸",
+     "qty": 286,
+     "unit_price": 527.83,
+     "delivery_days": 21,
+     "variant": "触摸屏7寸"
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0022": {
+  "supplier_08@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "接触器220V",
+     "qty": 10,
+     "unit_price": 72.94,
+     "delivery_days": 13
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 432,
+     "unit_price": 50.35,
+     "delivery_days": 14
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 197,
+     "unit_price": 41.85,
+     "delivery_days": 21
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 41,
+     "unit_price": 24.35,
+     "delivery_days": 12
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 273,
+     "unit_price": 1.92,
+     "delivery_days": 3,
+     "variant": "绝缘胶带"
+    }
+   ]
+  },
+  "supplier_09@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "接触器220V",
+     "qty": 10,
+     "unit_price": 75.98,
+     "delivery_days": 2,
+     "variant": "接触器220V"
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 432,
+     "unit_price": 59.15,
+     "delivery_days": 3
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 197,
+     "unit_price": 31.5,
+     "delivery_days": 21
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 41,
+     "unit_price": 27.98,
+     "delivery_days": 6
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 273,
+     "unit_price": 2.02,
+     "delivery_days": 8
+    }
+   ]
+  },
+  "supplier_02@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "接触器220V",
+     "qty": 10,
+     "unit_price": 65.12,
+     "delivery_days": 11,
+     "variant": "接触器220V（优质）"
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 432,
+     "unit_price": 55.93,
+     "delivery_days": 19,
+     "variant": "无缝钢管 DN50"
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 197,
+     "unit_price": 28.44,
+     "delivery_days": 7
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 41,
+     "unit_price": 21.89,
+     "delivery_days": 14
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 273,
+     "unit_price": 2.19,
+     "delivery_days": 18
+    }
+   ]
+  },
+  "supplier_01@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "接触器220V",
+     "qty": 10,
+     "unit_price": 58.87,
+     "delivery_days": 5,
+     "variant": "接触器220V（加厚）"
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 432,
+     "unit_price": 51.09,
+     "delivery_days": 7
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 197,
+     "unit_price": 35.54,
+     "delivery_days": 10
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 41,
+     "unit_price": 23.52,
+     "delivery_days": 7
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 273,
+     "unit_price": 1.71,
+     "delivery_days": 17
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0023": {
+  "supplier_03@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 2,
+   "items": [
+    {
+     "name": "不锈钢垫片",
+     "qty": 406,
+     "unit_price": 0.4,
+     "delivery_days": 16
+    },
+    {
+     "name": "空气开关C32",
+     "qty": 293,
+     "unit_price": 24.19,
+     "delivery_days": 11,
+     "variant": "空气开关 C32"
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 463,
+     "unit_price": 2.14,
+     "delivery_days": 15
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 417,
+     "unit_price": 5.38,
+     "delivery_days": 14
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 175,
+     "unit_price": 20.2,
+     "delivery_days": 20
+    }
+   ]
+  },
+  "supplier_05@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "不锈钢垫片",
+     "qty": 406,
+     "unit_price": 0.37,
+     "delivery_days": 4,
+     "variant": "不锈钢垫片"
+    },
+    {
+     "name": "空气开关C32",
+     "qty": 293,
+     "unit_price": 19.04,
+     "delivery_days": 8,
+     "variant": "空气开关C32"
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 463,
+     "unit_price": 3.1,
+     "delivery_days": 15,
+     "variant": "六角螺栓 M8*30"
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 417,
+     "unit_price": 4.63,
+     "delivery_days": 19,
+     "variant": "PVC线槽40*25（镀锌）"
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 175,
+     "unit_price": 25.99,
+     "delivery_days": 13,
+     "variant": "同步带5M-500"
+    }
+   ]
+  },
+  "supplier_07@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "不锈钢垫片",
+     "qty": 406,
+     "unit_price": 0.33,
+     "delivery_days": 5
+    },
+    {
+     "name": "空气开关C32",
+     "qty": 293,
+     "unit_price": 24.03,
+     "delivery_days": 17
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 463,
+     "unit_price": 3.12,
+     "delivery_days": 5
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 417,
+     "unit_price": 5.57,
+     "delivery_days": 5
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 175,
+     "unit_price": 22.62,
+     "delivery_days": 5
+    }
+   ]
+  },
+  "supplier_06@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "不锈钢垫片",
+     "qty": 406,
+     "unit_price": 0.45,
+     "delivery_days": 14
+    },
+    {
+     "name": "空气开关C32",
+     "qty": 293,
+     "unit_price": 17.61,
+     "delivery_days": 21
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 463,
+     "unit_price": 2.93,
+     "delivery_days": 16
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 417,
+     "unit_price": 4.45,
+     "delivery_days": 4
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 175,
+     "unit_price": 21.97,
+     "delivery_days": 19,
+     "variant": "同步带5M-500"
+    }
+   ]
+  },
+  "supplier_04@local.test": {
+   "style": "body",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "不锈钢垫片",
+     "qty": 406,
+     "unit_price": 0.38,
+     "delivery_days": 2,
+     "round1_price": 0.42,
+     "variant": "不锈钢垫片（优质）"
+    },
+    {
+     "name": "空气开关C32",
+     "qty": 293,
+     "unit_price": 22.28,
+     "delivery_days": 8,
+     "round1_price": 26.05
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 463,
+     "unit_price": 2.91,
+     "delivery_days": 6,
+     "round1_price": 3.34
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 417,
+     "unit_price": 5.74,
+     "delivery_days": 11,
+     "round1_price": 6.57
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 175,
+     "unit_price": 20.19,
+     "delivery_days": 12,
+     "round1_price": 22.27,
+     "variant": "同步带5M-500（优质）"
+    }
+   ]
+  },
+  "supplier_08@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 0,
+   "items": [
+    {
+     "name": "不锈钢垫片",
+     "qty": 406,
+     "unit_price": 0.43,
+     "delivery_days": 5,
+     "variant": "不锈钢垫片（加厚）"
+    },
+    {
+     "name": "空气开关C32",
+     "qty": 293,
+     "unit_price": 15.51,
+     "delivery_days": 8,
+     "variant": "空气开关C32（国标）"
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 463,
+     "unit_price": 2.71,
+     "delivery_days": 20,
+     "variant": "六角螺栓Ｍ８＊３０"
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 417,
+     "unit_price": 6.01,
+     "delivery_days": 3
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 175,
+     "unit_price": 23.21,
+     "delivery_days": 19
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0024": {
+  "supplier_04@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "无缝钢管DN50",
+     "qty": 81,
+     "unit_price": 53.84,
+     "delivery_days": 19
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 462,
+     "unit_price": 0.84,
+     "delivery_days": 7,
+     "variant": "热缩管Φ10"
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 35,
+     "unit_price": 36.06,
+     "delivery_days": 12
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 96,
+     "unit_price": 21.03,
+     "delivery_days": 19,
+     "variant": "同步带5M-500"
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 107,
+     "unit_price": 3.95,
+     "delivery_days": 19,
+     "variant": "铜芯电缆 2.5平方"
+    }
+   ]
+  },
+  "supplier_06@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 0,
+   "items": [
+    {
+     "name": "无缝钢管DN50",
+     "qty": 81,
+     "unit_price": 59.8,
+     "delivery_days": 2,
+     "variant": "无缝钢管DN50"
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 462,
+     "unit_price": 1.07,
+     "delivery_days": 8,
+     "variant": "热缩管Φ10"
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 35,
+     "unit_price": 36.31,
+     "delivery_days": 9
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 96,
+     "unit_price": 27.08,
+     "delivery_days": 9,
+     "variant": "同步带５Ｍ－５００"
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 107,
+     "unit_price": 3.32,
+     "delivery_days": 4,
+     "variant": "铜芯电缆2.5平方"
+    }
+   ]
+  },
+  "supplier_07@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "无缝钢管DN50",
+     "qty": 81,
+     "unit_price": 52.75,
+     "delivery_days": 10
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 462,
+     "unit_price": 0.96,
+     "delivery_days": 14,
+     "variant": "热缩管Φ10（优质）"
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 35,
+     "unit_price": 41.72,
+     "delivery_days": 16
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 96,
+     "unit_price": 29.69,
+     "delivery_days": 20
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 107,
+     "unit_price": 3.16,
+     "delivery_days": 13
+    }
+   ]
+  },
+  "supplier_02@local.test": {
+   "style": "excel",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "无缝钢管DN50",
+     "qty": 81,
+     "unit_price": 49.15,
+     "delivery_days": 8,
+     "round1_price": 54.57,
+     "variant": "无缝钢管DN50"
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 462,
+     "unit_price": 0.91,
+     "delivery_days": 19,
+     "round1_price": 1.1,
+     "variant": "热缩管Φ10"
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 35,
+     "unit_price": 34.49,
+     "delivery_days": 6,
+     "round1_price": 37.64
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 96,
+     "unit_price": 19.94,
+     "delivery_days": 16,
+     "round1_price": 23.35
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 107,
+     "unit_price": 3.88,
+     "delivery_days": 11,
+     "round1_price": 4.39
+    }
+   ]
+  },
+  "supplier_09@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "无缝钢管DN50",
+     "qty": 81,
+     "unit_price": 54.88,
+     "delivery_days": 6
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 462,
+     "unit_price": 0.84,
+     "delivery_days": 11
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 35,
+     "unit_price": 36.76,
+     "delivery_days": 14,
+     "variant": "焊接钢管ＳＣ５０"
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 96,
+     "unit_price": 19.47,
+     "delivery_days": 21
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 107,
+     "unit_price": 2.86,
+     "delivery_days": 21,
+     "variant": "铜芯电缆2.5平方"
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0025": {
+  "supplier_04@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "深沟球轴承6204",
+     "qty": 135,
+     "unit_price": 13.91,
+     "delivery_days": 12
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 158,
+     "unit_price": 0.93,
+     "delivery_days": 20
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 53,
+     "unit_price": 2.25,
+     "delivery_days": 17
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 477,
+     "unit_price": 0.43,
+     "delivery_days": 14
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 422,
+     "unit_price": 4.32,
+     "delivery_days": 5,
+     "variant": "PVC线槽40*25（优质）"
+    }
+   ]
+  },
+  "supplier_08@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "深沟球轴承6204",
+     "qty": 135,
+     "unit_price": 10.91,
+     "delivery_days": 17,
+     "variant": "深沟球轴承6204（镀锌）"
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 158,
+     "unit_price": 0.87,
+     "delivery_days": 14
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 53,
+     "unit_price": 1.63,
+     "delivery_days": 4
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 477,
+     "unit_price": 0.42,
+     "delivery_days": 5,
+     "variant": "不锈钢垫片（优质）"
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 422,
+     "unit_price": 4.71,
+     "delivery_days": 17
+    }
+   ]
+  },
+  "supplier_09@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 0,
+   "items": [
+    {
+     "name": "深沟球轴承6204",
+     "qty": 135,
+     "unit_price": 13.52,
+     "delivery_days": 10
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 158,
+     "unit_price": 0.78,
+     "delivery_days": 15
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 53,
+     "unit_price": 2.0,
+     "delivery_days": 16,
+     "variant": "绝缘胶带"
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 477,
+     "unit_price": 0.44,
+     "delivery_days": 19
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 422,
+     "unit_price": 4.9,
+     "delivery_days": 4
+    }
+   ]
+  },
+  "supplier_05@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "深沟球轴承6204",
+     "qty": 135,
+     "unit_price": 14.0,
+     "delivery_days": 21
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 158,
+     "unit_price": 0.9,
+     "delivery_days": 13
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 53,
+     "unit_price": 2.21,
+     "delivery_days": 17
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 477,
+     "unit_price": 0.36,
+     "delivery_days": 10,
+     "variant": "不锈钢垫片"
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 422,
+     "unit_price": 5.76,
+     "delivery_days": 15,
+     "variant": "PVC线槽40*25（优质）"
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0026": {
+  "supplier_04@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 496,
+     "unit_price": 37.65,
+     "delivery_days": 6
+    },
+    {
+     "name": "液压油46#",
+     "qty": 266,
+     "unit_price": 396.19,
+     "delivery_days": 11
+    }
+   ]
+  },
+  "supplier_06@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 496,
+     "unit_price": 24.24,
+     "delivery_days": 7,
+     "variant": "铝合金型材４０４０"
+    },
+    {
+     "name": "液压油46#",
+     "qty": 266,
+     "unit_price": 372.55,
+     "delivery_days": 15
+    }
+   ]
+  },
+  "supplier_05@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 496,
+     "unit_price": 25.75,
+     "delivery_days": 7
+    },
+    {
+     "name": "液压油46#",
+     "qty": 266,
+     "unit_price": 433.01,
+     "delivery_days": 3
+    }
+   ]
+  },
+  "supplier_08@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 496,
+     "unit_price": 30.04,
+     "delivery_days": 18
+    },
+    {
+     "name": "液压油46#",
+     "qty": 266,
+     "unit_price": 363.66,
+     "delivery_days": 16,
+     "variant": "液压油46#（优质）"
+    }
+   ]
+  },
+  "supplier_10@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 496,
+     "unit_price": 31.63,
+     "delivery_days": 6
+    },
+    {
+     "name": "液压油46#",
+     "qty": 266,
+     "unit_price": 371.67,
+     "delivery_days": 17
+    }
+   ]
+  },
+  "supplier_01@local.test": {
+   "style": "pdf",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 496,
+     "unit_price": 36.62,
+     "delivery_days": 19,
+     "round1_price": 39.66
+    },
+    {
+     "name": "液压油46#",
+     "qty": 266,
+     "unit_price": 369.19,
+     "delivery_days": 14,
+     "round1_price": 416.34,
+     "variant": "液压油46#（国标）"
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0027": {
+  "supplier_01@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "伺服电机750W",
+     "qty": 129,
+     "unit_price": 1489.73,
+     "delivery_days": 13
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 421,
+     "unit_price": 46.23,
+     "delivery_days": 19
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 390,
+     "unit_price": 2.24,
+     "delivery_days": 17
+    }
+   ]
+  },
+  "supplier_07@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "伺服电机750W",
+     "qty": 129,
+     "unit_price": 1535.75,
+     "delivery_days": 7,
+     "variant": "伺服电机750W（镀锌）"
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 421,
+     "unit_price": 58.94,
+     "delivery_days": 18
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 390,
+     "unit_price": 2.16,
+     "delivery_days": 11
+    }
+   ]
+  },
+  "supplier_06@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "伺服电机750W",
+     "qty": 129,
+     "unit_price": 1051.03,
+     "delivery_days": 4,
+     "variant": "伺服电机750W"
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 421,
+     "unit_price": 43.74,
+     "delivery_days": 15
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 390,
+     "unit_price": 2.63,
+     "delivery_days": 15,
+     "variant": "六角螺栓M8X30"
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0028": {
+  "supplier_04@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "空气开关C32",
+     "qty": 275,
+     "unit_price": 15.89,
+     "delivery_days": 21,
+     "variant": "空气开关C32（国标）"
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 308,
+     "unit_price": 0.77,
+     "delivery_days": 9,
+     "variant": "热缩管Φ10"
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 223,
+     "unit_price": 3.2,
+     "delivery_days": 20,
+     "variant": "六角螺栓M8*30（镀锌）"
+    }
+   ]
+  },
+  "supplier_03@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "空气开关C32",
+     "qty": 275,
+     "unit_price": 15.86,
+     "delivery_days": 3,
+     "variant": "空气开关C32（国标）"
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 308,
+     "unit_price": 0.92,
+     "delivery_days": 2
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 223,
+     "unit_price": 2.49,
+     "delivery_days": 18,
+     "variant": "六角螺栓 M8*30"
+    }
+   ]
+  },
+  "supplier_08@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "空气开关C32",
+     "qty": 275,
+     "unit_price": 22.15,
+     "delivery_days": 13,
+     "variant": "空气开关C32（加厚）"
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 308,
+     "unit_price": 1.2,
+     "delivery_days": 7
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 223,
+     "unit_price": 2.96,
+     "delivery_days": 9,
+     "variant": "六角螺栓 M8*30"
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0029": {
+  "supplier_01@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "焊接钢管SC50",
+     "qty": 14,
+     "unit_price": 40.16,
+     "delivery_days": 16
+    },
+    {
+     "name": "液压油46#",
+     "qty": 90,
+     "unit_price": 426.52,
+     "delivery_days": 9
+    },
+    {
+     "name": "铝合金型材4040",
+     "qty": 302,
+     "unit_price": 35.56,
+     "delivery_days": 6
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 324,
+     "unit_price": 0.78,
+     "delivery_days": 18,
+     "variant": "热缩管Φ１０"
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 407,
+     "unit_price": 3.51,
+     "delivery_days": 21
+    }
+   ]
+  },
+  "supplier_02@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "焊接钢管SC50",
+     "qty": 14,
+     "unit_price": 35.65,
+     "delivery_days": 17
+    },
+    {
+     "name": "液压油46#",
+     "qty": 90,
+     "unit_price": 389.82,
+     "delivery_days": 18,
+     "variant": "液压油46#（优质）"
+    },
+    {
+     "name": "铝合金型材4040",
+     "qty": 302,
+     "unit_price": 24.76,
+     "delivery_days": 12
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 324,
+     "unit_price": 0.88,
+     "delivery_days": 3
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 407,
+     "unit_price": 4.15,
+     "delivery_days": 19
+    }
+   ]
+  },
+  "supplier_06@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 0,
+   "items": [
+    {
+     "name": "焊接钢管SC50",
+     "qty": 14,
+     "unit_price": 33.45,
+     "delivery_days": 15,
+     "variant": "焊接钢管SC50"
+    },
+    {
+     "name": "液压油46#",
+     "qty": 90,
+     "unit_price": 330.95,
+     "delivery_days": 7,
+     "variant": "液压油 46#"
+    },
+    {
+     "name": "铝合金型材4040",
+     "qty": 302,
+     "unit_price": 25.73,
+     "delivery_days": 3
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 324,
+     "unit_price": 1.04,
+     "delivery_days": 2
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 407,
+     "unit_price": 3.49,
+     "delivery_days": 7
+    }
+   ]
+  },
+  "supplier_05@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "焊接钢管SC50",
+     "qty": 14,
+     "unit_price": 36.89,
+     "delivery_days": 10
+    },
+    {
+     "name": "液压油46#",
+     "qty": 90,
+     "unit_price": 482.39,
+     "delivery_days": 9,
+     "variant": "液压油 46#"
+    },
+    {
+     "name": "铝合金型材4040",
+     "qty": 302,
+     "unit_price": 37.65,
+     "delivery_days": 21
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 324,
+     "unit_price": 0.86,
+     "delivery_days": 19
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 407,
+     "unit_price": 2.89,
+     "delivery_days": 15
+    }
+   ]
+  },
+  "supplier_10@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "焊接钢管SC50",
+     "qty": 14,
+     "unit_price": 28.06,
+     "delivery_days": 3
+    },
+    {
+     "name": "液压油46#",
+     "qty": 90,
+     "unit_price": 492.58,
+     "delivery_days": 13
+    },
+    {
+     "name": "铝合金型材4040",
+     "qty": 302,
+     "unit_price": 36.87,
+     "delivery_days": 12
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 324,
+     "unit_price": 0.77,
+     "delivery_days": 7,
+     "variant": "热缩管Φ10（镀锌）"
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 407,
+     "unit_price": 4.0,
+     "delivery_days": 7,
+     "variant": "铜芯电缆２．５平方"
+    }
+   ]
+  },
+  "supplier_09@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "焊接钢管SC50",
+     "qty": 14,
+     "unit_price": 41.64,
+     "delivery_days": 3
+    },
+    {
+     "name": "液压油46#",
+     "qty": 90,
+     "unit_price": 338.09,
+     "delivery_days": 13
+    },
+    {
+     "name": "铝合金型材4040",
+     "qty": 302,
+     "unit_price": 26.8,
+     "delivery_days": 9
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 324,
+     "unit_price": 1.03,
+     "delivery_days": 14,
+     "variant": "热缩管Φ10（优质）"
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 407,
+     "unit_price": 2.76,
+     "delivery_days": 18,
+     "variant": "铜芯电缆2.5平方（国标）"
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0030": {
+  "supplier_01@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "绝缘胶带",
+     "qty": 469,
+     "unit_price": 2.14,
+     "delivery_days": 15
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 279,
+     "unit_price": 4.89,
+     "delivery_days": 2
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 478,
+     "unit_price": 36.66,
+     "delivery_days": 21,
+     "variant": "焊接钢管SC50（镀锌）"
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 494,
+     "unit_price": 14.78,
+     "delivery_days": 2
+    },
+    {
+     "name": "液压油46#",
+     "qty": 262,
+     "unit_price": 481.56,
+     "delivery_days": 15
+    }
+   ]
+  },
+  "supplier_04@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "绝缘胶带",
+     "qty": 469,
+     "unit_price": 1.57,
+     "delivery_days": 13
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 279,
+     "unit_price": 4.82,
+     "delivery_days": 13,
+     "variant": "ＰＶＣ线槽４０＊２５"
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 478,
+     "unit_price": 40.16,
+     "delivery_days": 5
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 494,
+     "unit_price": 11.14,
+     "delivery_days": 7,
+     "variant": "深沟球轴承6204"
+    },
+    {
+     "name": "液压油46#",
+     "qty": 262,
+     "unit_price": 412.06,
+     "delivery_days": 18,
+     "variant": "液压油46#"
+    }
+   ]
+  },
+  "supplier_02@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "绝缘胶带",
+     "qty": 469,
+     "unit_price": 1.93,
+     "delivery_days": 9
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 279,
+     "unit_price": 3.97,
+     "delivery_days": 5
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 478,
+     "unit_price": 36.92,
+     "delivery_days": 14,
+     "variant": "焊接钢管SC50（镀锌）"
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 494,
+     "unit_price": 15.13,
+     "delivery_days": 10,
+     "variant": "深沟球轴承６２０４"
+    },
+    {
+     "name": "液压油46#",
+     "qty": 262,
+     "unit_price": 363.6,
+     "delivery_days": 11
+    }
+   ]
+  },
+  "supplier_10@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 0,
+   "items": [
+    {
+     "name": "绝缘胶带",
+     "qty": 469,
+     "unit_price": 1.87,
+     "delivery_days": 14
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 279,
+     "unit_price": 5.79,
+     "delivery_days": 5
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 478,
+     "unit_price": 35.47,
+     "delivery_days": 2
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 494,
+     "unit_price": 11.4,
+     "delivery_days": 3,
+     "variant": "深沟球轴承6204（国标）"
+    },
+    {
+     "name": "液压油46#",
+     "qty": 262,
+     "unit_price": 457.9,
+     "delivery_days": 7
+    }
+   ]
+  },
+  "supplier_03@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "绝缘胶带",
+     "qty": 469,
+     "unit_price": 2.2,
+     "delivery_days": 12,
+     "variant": "绝缘胶带"
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 279,
+     "unit_price": 4.26,
+     "delivery_days": 7,
+     "variant": "ＰＶＣ线槽４０＊２５"
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 478,
+     "unit_price": 32.39,
+     "delivery_days": 6
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 494,
+     "unit_price": 12.31,
+     "delivery_days": 17,
+     "variant": "深沟球轴承6204（优质）"
+    },
+    {
+     "name": "液压油46#",
+     "qty": 262,
+     "unit_price": 487.33,
+     "delivery_days": 18
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0031": {
+  "supplier_02@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 23,
+     "unit_price": 36.65,
+     "delivery_days": 10
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 303,
+     "unit_price": 5.36,
+     "delivery_days": 18
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 310,
+     "unit_price": 23.84,
+     "delivery_days": 2
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 208,
+     "unit_price": 49.56,
+     "delivery_days": 12,
+     "variant": "无缝钢管 DN50"
+    }
+   ]
+  },
+  "supplier_07@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 23,
+     "unit_price": 32.33,
+     "delivery_days": 3,
+     "variant": "铝合金型材4040"
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 303,
+     "unit_price": 5.23,
+     "delivery_days": 19
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 310,
+     "unit_price": 26.35,
+     "delivery_days": 14,
+     "variant": "同步带5M-500"
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 208,
+     "unit_price": 53.82,
+     "delivery_days": 13
+    }
+   ]
+  },
+  "supplier_01@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 23,
+     "unit_price": 24.4,
+     "delivery_days": 15
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 303,
+     "unit_price": 5.84,
+     "delivery_days": 13
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 310,
+     "unit_price": 28.57,
+     "delivery_days": 20
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 208,
+     "unit_price": 58.95,
+     "delivery_days": 3
+    }
+   ]
+  },
+  "supplier_10@local.test": {
+   "style": "body",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 23,
+     "unit_price": 29.45,
+     "delivery_days": 19,
+     "round1_price": 33.27
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 303,
+     "unit_price": 5.34,
+     "delivery_days": 15,
+     "round1_price": 5.95
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 310,
+     "unit_price": 22.39,
+     "delivery_days": 19,
+     "round1_price": 27.72
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 208,
+     "unit_price": 59.94,
+     "delivery_days": 6,
+     "round1_price": 63.22
+    }
+   ]
+  },
+  "supplier_06@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 23,
+     "unit_price": 35.02,
+     "delivery_days": 6
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 303,
+     "unit_price": 5.73,
+     "delivery_days": 17,
+     "variant": "PVC线槽40*25（镀锌）"
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 310,
+     "unit_price": 21.75,
+     "delivery_days": 7,
+     "variant": "同步带5M-500"
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 208,
+     "unit_price": 50.98,
+     "delivery_days": 6
+    }
+   ]
+  },
+  "supplier_03@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 23,
+     "unit_price": 36.98,
+     "delivery_days": 15
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 303,
+     "unit_price": 5.8,
+     "delivery_days": 3
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 310,
+     "unit_price": 24.42,
+     "delivery_days": 7,
+     "variant": "同步带 5M-500"
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 208,
+     "unit_price": 50.22,
+     "delivery_days": 13
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0032": {
+  "supplier_09@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "液压油46#",
+     "qty": 360,
+     "unit_price": 364.07,
+     "delivery_days": 3
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 27,
+     "unit_price": 2.64,
+     "delivery_days": 7
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 139,
+     "unit_price": 2.07,
+     "delivery_days": 19,
+     "variant": "绝缘胶带（国标）"
+    },
+    {
+     "name": "触摸屏7寸",
+     "qty": 28,
+     "unit_price": 391.63,
+     "delivery_days": 11
+    }
+   ]
+  },
+  "supplier_04@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "液压油46#",
+     "qty": 360,
+     "unit_price": 381.06,
+     "delivery_days": 19,
+     "variant": "液压油４６＃"
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 27,
+     "unit_price": 3.27,
+     "delivery_days": 16,
+     "variant": "六角螺栓M8*30（国标）"
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 139,
+     "unit_price": 1.53,
+     "delivery_days": 7
+    },
+    {
+     "name": "触摸屏7寸",
+     "qty": 28,
+     "unit_price": 416.67,
+     "delivery_days": 15
+    }
+   ]
+  },
+  "supplier_10@local.test": {
+   "style": "body",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "液压油46#",
+     "qty": 360,
+     "unit_price": 426.94,
+     "delivery_days": 7,
+     "round1_price": 483.33
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 27,
+     "unit_price": 2.83,
+     "delivery_days": 4,
+     "round1_price": 2.99
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 139,
+     "unit_price": 1.93,
+     "delivery_days": 21,
+     "round1_price": 2.26
+    },
+    {
+     "name": "触摸屏7寸",
+     "qty": 28,
+     "unit_price": 415.77,
+     "delivery_days": 11,
+     "round1_price": 467.45
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0033": {
+  "supplier_04@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 2,
+   "items": [
+    {
+     "name": "焊接钢管SC50",
+     "qty": 49,
+     "unit_price": 37.72,
+     "delivery_days": 12
+    },
+    {
+     "name": "空气开关C32",
+     "qty": 143,
+     "unit_price": 21.79,
+     "delivery_days": 8
+    }
+   ]
+  },
+  "supplier_06@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "焊接钢管SC50",
+     "qty": 49,
+     "unit_price": 41.57,
+     "delivery_days": 14,
+     "variant": "焊接钢管SC50（镀锌）"
+    },
+    {
+     "name": "空气开关C32",
+     "qty": 143,
+     "unit_price": 20.58,
+     "delivery_days": 12,
+     "variant": "空气开关 C32"
+    }
+   ]
+  },
+  "supplier_10@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "焊接钢管SC50",
+     "qty": 49,
+     "unit_price": 36.71,
+     "delivery_days": 2
+    },
+    {
+     "name": "空气开关C32",
+     "qty": 143,
+     "unit_price": 21.61,
+     "delivery_days": 16
+    }
+   ]
+  },
+  "supplier_07@local.test": {
+   "style": "pdf",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "焊接钢管SC50",
+     "qty": 49,
+     "unit_price": 34.27,
+     "delivery_days": 12,
+     "round1_price": 37.61,
+     "variant": "焊接钢管SC50"
+    },
+    {
+     "name": "空气开关C32",
+     "qty": 143,
+     "unit_price": 16.44,
+     "delivery_days": 21,
+     "round1_price": 19.28
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0034": {
+  "supplier_01@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 0,
+   "items": [
+    {
+     "name": "无缝钢管DN50",
+     "qty": 388,
+     "unit_price": 50.85,
+     "delivery_days": 10
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 245,
+     "unit_price": 2.35,
+     "delivery_days": 4
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 276,
+     "unit_price": 25.28,
+     "delivery_days": 11
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 474,
+     "unit_price": 2.23,
+     "delivery_days": 20
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 151,
+     "unit_price": 0.91,
+     "delivery_days": 4
+    }
+   ]
+  },
+  "supplier_10@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 2,
+   "items": [
+    {
+     "name": "无缝钢管DN50",
+     "qty": 388,
+     "unit_price": 60.71,
+     "delivery_days": 13
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 245,
+     "unit_price": 3.09,
+     "delivery_days": 19,
+     "variant": "六角螺栓M8*30（优质）"
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 276,
+     "unit_price": 25.96,
+     "delivery_days": 19
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 474,
+     "unit_price": 1.78,
+     "delivery_days": 7
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 151,
+     "unit_price": 1.0,
+     "delivery_days": 8,
+     "variant": "热缩管Φ10（优质）"
+    }
+   ]
+  },
+  "supplier_03@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "无缝钢管DN50",
+     "qty": 388,
+     "unit_price": 39.74,
+     "delivery_days": 20
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 245,
+     "unit_price": 2.34,
+     "delivery_days": 11,
+     "variant": "六角螺栓Ｍ８＊３０"
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 276,
+     "unit_price": 20.81,
+     "delivery_days": 21
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 474,
+     "unit_price": 1.56,
+     "delivery_days": 11
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 151,
+     "unit_price": 0.87,
+     "delivery_days": 4,
+     "variant": "热缩管Φ１０"
+    }
+   ]
+  },
+  "supplier_05@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "无缝钢管DN50",
+     "qty": 388,
+     "unit_price": 51.14,
+     "delivery_days": 18
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 245,
+     "unit_price": 2.98,
+     "delivery_days": 11
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 276,
+     "unit_price": 20.67,
+     "delivery_days": 19,
+     "variant": "同步带5M-500（加厚）"
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 474,
+     "unit_price": 2.41,
+     "delivery_days": 12
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 151,
+     "unit_price": 1.14,
+     "delivery_days": 13
+    }
+   ]
+  },
+  "supplier_06@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "无缝钢管DN50",
+     "qty": 388,
+     "unit_price": 42.18,
+     "delivery_days": 11
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 245,
+     "unit_price": 2.74,
+     "delivery_days": 14
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 276,
+     "unit_price": 18.74,
+     "delivery_days": 4
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 474,
+     "unit_price": 2.17,
+     "delivery_days": 11
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 151,
+     "unit_price": 0.86,
+     "delivery_days": 5
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0035": {
+  "supplier_09@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "接触器220V",
+     "qty": 88,
+     "unit_price": 65.15,
+     "delivery_days": 21
+    },
+    {
+     "name": "空气开关C32",
+     "qty": 295,
+     "unit_price": 21.71,
+     "delivery_days": 5
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 451,
+     "unit_price": 11.19,
+     "delivery_days": 12
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 112,
+     "unit_price": 4.09,
+     "delivery_days": 18
+    }
+   ]
+  },
+  "supplier_03@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "接触器220V",
+     "qty": 88,
+     "unit_price": 77.95,
+     "delivery_days": 9
+    },
+    {
+     "name": "空气开关C32",
+     "qty": 295,
+     "unit_price": 16.82,
+     "delivery_days": 17
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 451,
+     "unit_price": 12.13,
+     "delivery_days": 17,
+     "variant": "深沟球轴承 6204"
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 112,
+     "unit_price": 4.37,
+     "delivery_days": 5
+    }
+   ]
+  },
+  "supplier_02@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 2,
+   "items": [
+    {
+     "name": "接触器220V",
+     "qty": 88,
+     "unit_price": 82.19,
+     "delivery_days": 15
+    },
+    {
+     "name": "空气开关C32",
+     "qty": 295,
+     "unit_price": 21.17,
+     "delivery_days": 11,
+     "variant": "空气开关C32"
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 451,
+     "unit_price": 10.64,
+     "delivery_days": 18
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 112,
+     "unit_price": 5.64,
+     "delivery_days": 15
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0036": {
+  "supplier_02@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 357,
+     "unit_price": 30.16,
+     "delivery_days": 19
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 305,
+     "unit_price": 0.42,
+     "delivery_days": 7
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 234,
+     "unit_price": 28.07,
+     "delivery_days": 5
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 223,
+     "unit_price": 39.65,
+     "delivery_days": 3
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 177,
+     "unit_price": 0.83,
+     "delivery_days": 13
+    }
+   ]
+  },
+  "supplier_04@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 357,
+     "unit_price": 37.27,
+     "delivery_days": 11
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 305,
+     "unit_price": 0.44,
+     "delivery_days": 17
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 234,
+     "unit_price": 38.34,
+     "delivery_days": 18,
+     "variant": "焊接钢管SC50（加厚）"
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 223,
+     "unit_price": 54.86,
+     "delivery_days": 11
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 177,
+     "unit_price": 1.16,
+     "delivery_days": 7
+    }
+   ]
+  },
+  "supplier_07@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 357,
+     "unit_price": 37.0,
+     "delivery_days": 15,
+     "variant": "铝合金型材4040（镀锌）"
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 305,
+     "unit_price": 0.38,
+     "delivery_days": 16
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 234,
+     "unit_price": 40.77,
+     "delivery_days": 5
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 223,
+     "unit_price": 41.1,
+     "delivery_days": 8
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 177,
+     "unit_price": 1.11,
+     "delivery_days": 12
+    }
+   ]
+  },
+  "supplier_03@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 357,
+     "unit_price": 27.29,
+     "delivery_days": 19
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 305,
+     "unit_price": 0.46,
+     "delivery_days": 10
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 234,
+     "unit_price": 31.72,
+     "delivery_days": 15
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 223,
+     "unit_price": 50.77,
+     "delivery_days": 2,
+     "variant": "无缝钢管DN50"
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 177,
+     "unit_price": 1.17,
+     "delivery_days": 12
+    }
+   ]
+  },
+  "supplier_09@local.test": {
+   "style": "body",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "铝合金型材4040",
+     "qty": 357,
+     "unit_price": 26.7,
+     "delivery_days": 20,
+     "round1_price": 28.31
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 305,
+     "unit_price": 0.42,
+     "delivery_days": 11,
+     "round1_price": 0.47
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 234,
+     "unit_price": 28.31,
+     "delivery_days": 3,
+     "round1_price": 31.3
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 223,
+     "unit_price": 50.01,
+     "delivery_days": 5,
+     "round1_price": 54.57,
+     "variant": "无缝钢管DN50"
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 177,
+     "unit_price": 0.9,
+     "delivery_days": 8,
+     "round1_price": 1.11
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0037": {
+  "supplier_07@local.test": {
+   "style": "excel",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "空气开关C32",
+     "qty": 162,
+     "unit_price": 23.28,
+     "delivery_days": 6,
+     "round1_price": 27.9
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 427,
+     "unit_price": 13.35,
+     "delivery_days": 8,
+     "round1_price": 15.01
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 479,
+     "unit_price": 3.95,
+     "delivery_days": 16,
+     "round1_price": 4.43
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 414,
+     "unit_price": 2.06,
+     "delivery_days": 17,
+     "round1_price": 2.45,
+     "variant": "绝缘胶带"
+    }
+   ]
+  },
+  "supplier_10@local.test": {
+   "style": "pdf",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "空气开关C32",
+     "qty": 162,
+     "unit_price": 18.16,
+     "delivery_days": 20,
+     "round1_price": 22.14
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 427,
+     "unit_price": 13.19,
+     "delivery_days": 7,
+     "round1_price": 14.8
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 479,
+     "unit_price": 4.03,
+     "delivery_days": 6,
+     "round1_price": 4.91
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 414,
+     "unit_price": 1.56,
+     "delivery_days": 3,
+     "round1_price": 1.9
+    }
+   ]
+  },
+  "supplier_09@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "空气开关C32",
+     "qty": 162,
+     "unit_price": 20.57,
+     "delivery_days": 3,
+     "variant": "空气开关C32（镀锌）"
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 427,
+     "unit_price": 12.87,
+     "delivery_days": 15
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 479,
+     "unit_price": 2.9,
+     "delivery_days": 12
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 414,
+     "unit_price": 2.0,
+     "delivery_days": 15
+    }
+   ]
+  },
+  "supplier_04@local.test": {
+   "style": "pdf",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "空气开关C32",
+     "qty": 162,
+     "unit_price": 20.46,
+     "delivery_days": 4,
+     "round1_price": 22.62
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 427,
+     "unit_price": 10.81,
+     "delivery_days": 18,
+     "round1_price": 11.53,
+     "variant": "深沟球轴承6204"
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 479,
+     "unit_price": 3.44,
+     "delivery_days": 9,
+     "round1_price": 4.2,
+     "variant": "铜芯电缆2.5平方（优质）"
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 414,
+     "unit_price": 1.95,
+     "delivery_days": 5,
+     "round1_price": 2.23,
+     "variant": "绝缘胶带"
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0038": {
+  "supplier_07@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "焊接钢管SC50",
+     "qty": 304,
+     "unit_price": 27.39,
+     "delivery_days": 2,
+     "variant": "焊接钢管ＳＣ５０"
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 477,
+     "unit_price": 13.38,
+     "delivery_days": 7
+    }
+   ]
+  },
+  "supplier_02@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "焊接钢管SC50",
+     "qty": 304,
+     "unit_price": 37.39,
+     "delivery_days": 21,
+     "variant": "焊接钢管SC50"
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 477,
+     "unit_price": 11.35,
+     "delivery_days": 21
+    }
+   ]
+  },
+  "supplier_08@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "焊接钢管SC50",
+     "qty": 304,
+     "unit_price": 33.64,
+     "delivery_days": 2
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 477,
+     "unit_price": 11.94,
+     "delivery_days": 12,
+     "variant": "深沟球轴承 6204"
+    }
+   ]
+  },
+  "supplier_05@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 2,
+   "items": [
+    {
+     "name": "焊接钢管SC50",
+     "qty": 304,
+     "unit_price": 31.3,
+     "delivery_days": 5
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 477,
+     "unit_price": 11.06,
+     "delivery_days": 21
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0039": {
+  "supplier_06@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "同步带5M-500",
+     "qty": 69,
+     "unit_price": 19.54,
+     "delivery_days": 16
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 323,
+     "unit_price": 1.58,
+     "delivery_days": 15
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 301,
+     "unit_price": 11.44,
+     "delivery_days": 12
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 283,
+     "unit_price": 0.39,
+     "delivery_days": 15
+    }
+   ]
+  },
+  "supplier_07@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "同步带5M-500",
+     "qty": 69,
+     "unit_price": 19.16,
+     "delivery_days": 7
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 323,
+     "unit_price": 2.01,
+     "delivery_days": 10
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 301,
+     "unit_price": 14.2,
+     "delivery_days": 21
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 283,
+     "unit_price": 0.36,
+     "delivery_days": 7,
+     "variant": "不锈钢垫片"
+    }
+   ]
+  },
+  "supplier_09@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "同步带5M-500",
+     "qty": 69,
+     "unit_price": 19.22,
+     "delivery_days": 10
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 323,
+     "unit_price": 1.63,
+     "delivery_days": 12,
+     "variant": "绝缘胶带（优质）"
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 301,
+     "unit_price": 10.33,
+     "delivery_days": 15,
+     "variant": "深沟球轴承6204（国标）"
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 283,
+     "unit_price": 0.3,
+     "delivery_days": 10
+    }
+   ]
+  },
+  "supplier_08@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "同步带5M-500",
+     "qty": 69,
+     "unit_price": 26.76,
+     "delivery_days": 13
+    },
+    {
+     "name": "绝缘胶带",
+     "qty": 323,
+     "unit_price": 1.93,
+     "delivery_days": 5
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 301,
+     "unit_price": 11.57,
+     "delivery_days": 5
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 283,
+     "unit_price": 0.35,
+     "delivery_days": 8,
+     "variant": "不锈钢垫片"
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0040": {
+  "supplier_06@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "不锈钢垫片",
+     "qty": 321,
+     "unit_price": 0.4,
+     "delivery_days": 9,
+     "variant": "不锈钢垫片（国标）"
+    },
+    {
+     "name": "伺服电机750W",
+     "qty": 268,
+     "unit_price": 1248.82,
+     "delivery_days": 9,
+     "variant": "伺服电机７５０Ｗ"
+    },
+    {
+     "name": "接触器220V",
+     "qty": 270,
+     "unit_price": 67.99,
+     "delivery_days": 21,
+     "variant": "接触器220V"
+    }
+   ]
+  },
+  "supplier_04@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 0,
+   "items": [
+    {
+     "name": "不锈钢垫片",
+     "qty": 321,
+     "unit_price": 0.38,
+     "delivery_days": 9
+    },
+    {
+     "name": "伺服电机750W",
+     "qty": 268,
+     "unit_price": 1311.59,
+     "delivery_days": 18,
+     "variant": "伺服电机750W（优质）"
+    },
+    {
+     "name": "接触器220V",
+     "qty": 270,
+     "unit_price": 69.2,
+     "delivery_days": 9,
+     "variant": "接触器 220V"
+    }
+   ]
+  },
+  "supplier_07@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "不锈钢垫片",
+     "qty": 321,
+     "unit_price": 0.45,
+     "delivery_days": 6
+    },
+    {
+     "name": "伺服电机750W",
+     "qty": 268,
+     "unit_price": 1020.4,
+     "delivery_days": 21
+    },
+    {
+     "name": "接触器220V",
+     "qty": 270,
+     "unit_price": 85.18,
+     "delivery_days": 19,
+     "variant": "接触器220V"
+    }
+   ]
+  },
+  "supplier_01@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 2,
+   "items": [
+    {
+     "name": "不锈钢垫片",
+     "qty": 321,
+     "unit_price": 0.4,
+     "delivery_days": 10
+    },
+    {
+     "name": "伺服电机750W",
+     "qty": 268,
+     "unit_price": 1304.08,
+     "delivery_days": 6
+    },
+    {
+     "name": "接触器220V",
+     "qty": 270,
+     "unit_price": 85.58,
+     "delivery_days": 6
+    }
+   ]
+  },
+  "supplier_10@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "不锈钢垫片",
+     "qty": 321,
+     "unit_price": 0.45,
+     "delivery_days": 6
+    },
+    {
+     "name": "伺服电机750W",
+     "qty": 268,
+     "unit_price": 1429.29,
+     "delivery_days": 3
+    },
+    {
+     "name": "接触器220V",
+     "qty": 270,
+     "unit_price": 62.65,
+     "delivery_days": 17,
+     "variant": "接触器220V（国标）"
+    }
+   ]
+  },
+  "supplier_02@local.test": {
+   "style": "body",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "不锈钢垫片",
+     "qty": 321,
+     "unit_price": 0.33,
+     "delivery_days": 19,
+     "round1_price": 0.36,
+     "variant": "不锈钢垫片"
+    },
+    {
+     "name": "伺服电机750W",
+     "qty": 268,
+     "unit_price": 1617.8,
+     "delivery_days": 18,
+     "round1_price": 1970.77,
+     "variant": "伺服电机 750W"
+    },
+    {
+     "name": "接触器220V",
+     "qty": 270,
+     "unit_price": 67.67,
+     "delivery_days": 15,
+     "round1_price": 81.32
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0041": {
+  "supplier_07@local.test": {
+   "style": "body",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "焊接钢管SC50",
+     "qty": 435,
+     "unit_price": 34.64,
+     "delivery_days": 18,
+     "round1_price": 43.26,
+     "variant": "焊接钢管SC50（加厚）"
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 379,
+     "unit_price": 1.12,
+     "delivery_days": 14,
+     "round1_price": 1.37
+    }
+   ]
+  },
+  "supplier_05@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "焊接钢管SC50",
+     "qty": 435,
+     "unit_price": 30.66,
+     "delivery_days": 11
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 379,
+     "unit_price": 0.95,
+     "delivery_days": 4
+    }
+   ]
+  },
+  "supplier_02@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "焊接钢管SC50",
+     "qty": 435,
+     "unit_price": 33.02,
+     "delivery_days": 15,
+     "variant": "焊接钢管 SC50"
+    },
+    {
+     "name": "热缩管Φ10",
+     "qty": 379,
+     "unit_price": 1.03,
+     "delivery_days": 19,
+     "variant": "热缩管Φ10"
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0042": {
+  "supplier_01@local.test": {
+   "style": "pdf",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "热缩管Φ10",
+     "qty": 171,
+     "unit_price": 0.88,
+     "delivery_days": 11,
+     "round1_price": 1.03,
+     "variant": "热缩管Φ10（加厚）"
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 418,
+     "unit_price": 3.92,
+     "delivery_days": 18,
+     "round1_price": 4.74
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 42,
+     "unit_price": 36.79,
+     "delivery_days": 5,
+     "round1_price": 40.44,
+     "variant": "焊接钢管SC50（优质）"
+    },
+    {
+     "name": "接触器220V",
+     "qty": 379,
+     "unit_price": 66.91,
+     "delivery_days": 17,
+     "round1_price": 73.51,
+     "variant": "接触器２２０Ｖ"
+    }
+   ]
+  },
+  "supplier_08@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "热缩管Φ10",
+     "qty": 171,
+     "unit_price": 1.11,
+     "delivery_days": 17
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 418,
+     "unit_price": 4.01,
+     "delivery_days": 9
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 42,
+     "unit_price": 43.18,
+     "delivery_days": 10
+    },
+    {
+     "name": "接触器220V",
+     "qty": 379,
+     "unit_price": 59.34,
+     "delivery_days": 20,
+     "variant": "接触器220V（加厚）"
+    }
+   ]
+  },
+  "supplier_07@local.test": {
+   "style": "body",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "热缩管Φ10",
+     "qty": 171,
+     "unit_price": 1.09,
+     "delivery_days": 5,
+     "round1_price": 1.21
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 418,
+     "unit_price": 2.87,
+     "delivery_days": 2,
+     "round1_price": 3.42
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 42,
+     "unit_price": 36.32,
+     "delivery_days": 6,
+     "round1_price": 44.36
+    },
+    {
+     "name": "接触器220V",
+     "qty": 379,
+     "unit_price": 58.8,
+     "delivery_days": 2,
+     "round1_price": 65.58
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0043": {
+  "supplier_06@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 0,
+   "items": [
+    {
+     "name": "同步带5M-500",
+     "qty": 182,
+     "unit_price": 27.92,
+     "delivery_days": 20
+    },
+    {
+     "name": "接触器220V",
+     "qty": 108,
+     "unit_price": 84.74,
+     "delivery_days": 14
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 415,
+     "unit_price": 11.01,
+     "delivery_days": 15,
+     "variant": "深沟球轴承 6204"
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 469,
+     "unit_price": 31.72,
+     "delivery_days": 7,
+     "variant": "焊接钢管 SC50"
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 97,
+     "unit_price": 4.76,
+     "delivery_days": 2,
+     "variant": "PVC线槽40*25（优质）"
+    }
+   ]
+  },
+  "supplier_07@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 0,
+   "items": [
+    {
+     "name": "同步带5M-500",
+     "qty": 182,
+     "unit_price": 21.54,
+     "delivery_days": 2
+    },
+    {
+     "name": "接触器220V",
+     "qty": 108,
+     "unit_price": 82.28,
+     "delivery_days": 3
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 415,
+     "unit_price": 13.02,
+     "delivery_days": 15,
+     "variant": "深沟球轴承6204"
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 469,
+     "unit_price": 33.52,
+     "delivery_days": 2
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 97,
+     "unit_price": 5.34,
+     "delivery_days": 7,
+     "variant": "PVC线槽40X25"
+    }
+   ]
+  },
+  "supplier_10@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "同步带5M-500",
+     "qty": 182,
+     "unit_price": 25.0,
+     "delivery_days": 8
+    },
+    {
+     "name": "接触器220V",
+     "qty": 108,
+     "unit_price": 58.59,
+     "delivery_days": 3
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 415,
+     "unit_price": 10.91,
+     "delivery_days": 17
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 469,
+     "unit_price": 36.4,
+     "delivery_days": 2,
+     "variant": "焊接钢管 SC50"
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 97,
+     "unit_price": 4.41,
+     "delivery_days": 15
+    }
+   ]
+  },
+  "supplier_04@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "同步带5M-500",
+     "qty": 182,
+     "unit_price": 22.42,
+     "delivery_days": 16
+    },
+    {
+     "name": "接触器220V",
+     "qty": 108,
+     "unit_price": 56.63,
+     "delivery_days": 14
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 415,
+     "unit_price": 13.44,
+     "delivery_days": 15
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 469,
+     "unit_price": 27.83,
+     "delivery_days": 6
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 97,
+     "unit_price": 5.37,
+     "delivery_days": 12
+    }
+   ]
+  },
+  "supplier_03@local.test": {
+   "style": "pdf",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "同步带5M-500",
+     "qty": 182,
+     "unit_price": 29.57,
+     "delivery_days": 13,
+     "round1_price": 34.22
+    },
+    {
+     "name": "接触器220V",
+     "qty": 108,
+     "unit_price": 68.79,
+     "delivery_days": 12,
+     "round1_price": 79.92
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 415,
+     "unit_price": 10.97,
+     "delivery_days": 10,
+     "round1_price": 12.67,
+     "variant": "深沟球轴承6204（国标）"
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 469,
+     "unit_price": 40.06,
+     "delivery_days": 18,
+     "round1_price": 48.27
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 97,
+     "unit_price": 4.24,
+     "delivery_days": 9,
+     "round1_price": 4.94
+    }
+   ]
+  },
+  "supplier_05@local.test": {
+   "style": "pdf",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "同步带5M-500",
+     "qty": 182,
+     "unit_price": 25.03,
+     "delivery_days": 3,
+     "round1_price": 31.17
+    },
+    {
+     "name": "接触器220V",
+     "qty": 108,
+     "unit_price": 57.98,
+     "delivery_days": 17,
+     "round1_price": 62.53
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 415,
+     "unit_price": 13.11,
+     "delivery_days": 10,
+     "round1_price": 15.03,
+     "variant": "深沟球轴承6204（镀锌）"
+    },
+    {
+     "name": "焊接钢管SC50",
+     "qty": 469,
+     "unit_price": 35.53,
+     "delivery_days": 17,
+     "round1_price": 39.29
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 97,
+     "unit_price": 4.51,
+     "delivery_days": 7,
+     "round1_price": 4.82,
+     "variant": "PVC线槽40X25"
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0044": {
+  "supplier_03@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "伺服电机750W",
+     "qty": 379,
+     "unit_price": 1297.9,
+     "delivery_days": 3,
+     "variant": "伺服电机 750W"
+    },
+    {
+     "name": "空气开关C32",
+     "qty": 477,
+     "unit_price": 16.87,
+     "delivery_days": 11,
+     "variant": "空气开关Ｃ３２"
+    },
+    {
+     "name": "触摸屏7寸",
+     "qty": 485,
+     "unit_price": 397.77,
+     "delivery_days": 19
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 297,
+     "unit_price": 3.88,
+     "delivery_days": 3
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 71,
+     "unit_price": 2.62,
+     "delivery_days": 10
+    }
+   ]
+  },
+  "supplier_08@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "伺服电机750W",
+     "qty": 379,
+     "unit_price": 1075.35,
+     "delivery_days": 18
+    },
+    {
+     "name": "空气开关C32",
+     "qty": 477,
+     "unit_price": 21.76,
+     "delivery_days": 13
+    },
+    {
+     "name": "触摸屏7寸",
+     "qty": 485,
+     "unit_price": 391.58,
+     "delivery_days": 3,
+     "variant": "触摸屏7寸（镀锌）"
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 297,
+     "unit_price": 3.12,
+     "delivery_days": 9
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 71,
+     "unit_price": 2.73,
+     "delivery_days": 2
+    }
+   ]
+  },
+  "supplier_01@local.test": {
+   "style": "body",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "伺服电机750W",
+     "qty": 379,
+     "unit_price": 1092.49,
+     "delivery_days": 2,
+     "round1_price": 1311.76
+    },
+    {
+     "name": "空气开关C32",
+     "qty": 477,
+     "unit_price": 22.96,
+     "delivery_days": 5,
+     "round1_price": 24.84
+    },
+    {
+     "name": "触摸屏7寸",
+     "qty": 485,
+     "unit_price": 579.16,
+     "delivery_days": 13,
+     "round1_price": 707.07
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 297,
+     "unit_price": 3.7,
+     "delivery_days": 4,
+     "round1_price": 4.57
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 71,
+     "unit_price": 3.29,
+     "delivery_days": 16,
+     "round1_price": 3.94
+    }
+   ]
+  },
+  "supplier_10@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "伺服电机750W",
+     "qty": 379,
+     "unit_price": 1542.52,
+     "delivery_days": 12,
+     "variant": "伺服电机７５０Ｗ"
+    },
+    {
+     "name": "空气开关C32",
+     "qty": 477,
+     "unit_price": 20.54,
+     "delivery_days": 14
+    },
+    {
+     "name": "触摸屏7寸",
+     "qty": 485,
+     "unit_price": 427.06,
+     "delivery_days": 16
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 297,
+     "unit_price": 3.96,
+     "delivery_days": 15,
+     "variant": "铜芯电缆2.5平方（镀锌）"
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 71,
+     "unit_price": 2.41,
+     "delivery_days": 15
+    }
+   ]
+  },
+  "supplier_09@local.test": {
+   "style": "body",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "伺服电机750W",
+     "qty": 379,
+     "unit_price": 1280.85,
+     "delivery_days": 8,
+     "round1_price": 1487.48
+    },
+    {
+     "name": "空气开关C32",
+     "qty": 477,
+     "unit_price": 22.95,
+     "delivery_days": 21,
+     "round1_price": 26.7
+    },
+    {
+     "name": "触摸屏7寸",
+     "qty": 485,
+     "unit_price": 453.34,
+     "delivery_days": 3,
+     "round1_price": 496.43,
+     "variant": "触摸屏7寸"
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 297,
+     "unit_price": 3.28,
+     "delivery_days": 13,
+     "round1_price": 4.04
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 71,
+     "unit_price": 2.58,
+     "delivery_days": 17,
+     "round1_price": 2.89
+    }
+   ]
+  },
+  "supplier_05@local.test": {
+   "style": "pdf",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "伺服电机750W",
+     "qty": 379,
+     "unit_price": 1062.71,
+     "delivery_days": 10,
+     "round1_price": 1144.15
+    },
+    {
+     "name": "空气开关C32",
+     "qty": 477,
+     "unit_price": 16.88,
+     "delivery_days": 6,
+     "round1_price": 20.33,
+     "variant": "空气开关Ｃ３２"
+    },
+    {
+     "name": "触摸屏7寸",
+     "qty": 485,
+     "unit_price": 527.63,
+     "delivery_days": 9,
+     "round1_price": 574.9,
+     "variant": "触摸屏７寸"
+    },
+    {
+     "name": "铜芯电缆2.5平方",
+     "qty": 297,
+     "unit_price": 3.09,
+     "delivery_days": 9,
+     "round1_price": 3.35
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 71,
+     "unit_price": 2.47,
+     "delivery_days": 19,
+     "round1_price": 3.06
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0045": {
+  "supplier_09@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "接触器220V",
+     "qty": 255,
+     "unit_price": 82.0,
+     "delivery_days": 19
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 299,
+     "unit_price": 26.55,
+     "delivery_days": 5
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 173,
+     "unit_price": 40.47,
+     "delivery_days": 10,
+     "variant": "无缝钢管DN50"
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 290,
+     "unit_price": 0.35,
+     "delivery_days": 10
+    }
+   ]
+  },
+  "supplier_07@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "接触器220V",
+     "qty": 255,
+     "unit_price": 55.67,
+     "delivery_days": 2
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 299,
+     "unit_price": 25.39,
+     "delivery_days": 18
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 173,
+     "unit_price": 46.26,
+     "delivery_days": 20,
+     "variant": "无缝钢管DN50"
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 290,
+     "unit_price": 0.39,
+     "delivery_days": 16
+    }
+   ]
+  },
+  "supplier_08@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 0,
+   "items": [
+    {
+     "name": "接触器220V",
+     "qty": 255,
+     "unit_price": 61.58,
+     "delivery_days": 15
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 299,
+     "unit_price": 27.3,
+     "delivery_days": 20
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 173,
+     "unit_price": 60.09,
+     "delivery_days": 11
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 290,
+     "unit_price": 0.41,
+     "delivery_days": 19
+    }
+   ]
+  },
+  "supplier_06@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 2,
+   "items": [
+    {
+     "name": "接触器220V",
+     "qty": 255,
+     "unit_price": 87.69,
+     "delivery_days": 6
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 299,
+     "unit_price": 27.88,
+     "delivery_days": 6
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 173,
+     "unit_price": 55.97,
+     "delivery_days": 10,
+     "variant": "无缝钢管DN50（加厚）"
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 290,
+     "unit_price": 0.47,
+     "delivery_days": 6
+    }
+   ]
+  },
+  "supplier_04@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "接触器220V",
+     "qty": 255,
+     "unit_price": 81.02,
+     "delivery_days": 9
+    },
+    {
+     "name": "同步带5M-500",
+     "qty": 299,
+     "unit_price": 27.41,
+     "delivery_days": 21
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 173,
+     "unit_price": 59.75,
+     "delivery_days": 21
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 290,
+     "unit_price": 0.47,
+     "delivery_days": 2
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0046": {
+  "supplier_03@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 423,
+     "unit_price": 2.55,
+     "delivery_days": 21,
+     "variant": "六角螺栓M8X30"
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 310,
+     "unit_price": 0.34,
+     "delivery_days": 11,
+     "variant": "不锈钢垫片"
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 217,
+     "unit_price": 14.46,
+     "delivery_days": 20
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 227,
+     "unit_price": 5.65,
+     "delivery_days": 4
+    }
+   ]
+  },
+  "supplier_05@local.test": {
+   "style": "excel",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 423,
+     "unit_price": 2.35,
+     "delivery_days": 16,
+     "round1_price": 2.56
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 310,
+     "unit_price": 0.41,
+     "delivery_days": 13,
+     "round1_price": 0.45
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 217,
+     "unit_price": 11.54,
+     "delivery_days": 11,
+     "round1_price": 13.24
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 227,
+     "unit_price": 5.18,
+     "delivery_days": 16,
+     "round1_price": 6.3
+    }
+   ]
+  },
+  "supplier_09@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 423,
+     "unit_price": 3.29,
+     "delivery_days": 20,
+     "variant": "六角螺栓M8×30"
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 310,
+     "unit_price": 0.46,
+     "delivery_days": 2,
+     "variant": "不锈钢垫片"
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 217,
+     "unit_price": 10.95,
+     "delivery_days": 19
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 227,
+     "unit_price": 5.04,
+     "delivery_days": 5
+    }
+   ]
+  },
+  "supplier_10@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 423,
+     "unit_price": 2.94,
+     "delivery_days": 13
+    },
+    {
+     "name": "不锈钢垫片",
+     "qty": 310,
+     "unit_price": 0.37,
+     "delivery_days": 18,
+     "variant": "不锈钢垫片（国标）"
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 217,
+     "unit_price": 10.6,
+     "delivery_days": 8
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 227,
+     "unit_price": 4.17,
+     "delivery_days": 9,
+     "variant": "ＰＶＣ线槽４０＊２５"
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0047": {
+  "supplier_07@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "触摸屏7寸",
+     "qty": 134,
+     "unit_price": 546.0,
+     "delivery_days": 18
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 384,
+     "unit_price": 14.3,
+     "delivery_days": 14
+    },
+    {
+     "name": "液压油46#",
+     "qty": 316,
+     "unit_price": 423.3,
+     "delivery_days": 13,
+     "variant": "液压油46#"
+    },
+    {
+     "name": "铝合金型材4040",
+     "qty": 274,
+     "unit_price": 27.43,
+     "delivery_days": 17,
+     "variant": "铝合金型材4040"
+    },
+    {
+     "name": "空气开关C32",
+     "qty": 198,
+     "unit_price": 21.98,
+     "delivery_days": 16,
+     "variant": "空气开关C32"
+    }
+   ]
+  },
+  "supplier_03@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "触摸屏7寸",
+     "qty": 134,
+     "unit_price": 584.77,
+     "delivery_days": 13,
+     "variant": "触摸屏７寸"
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 384,
+     "unit_price": 15.22,
+     "delivery_days": 9
+    },
+    {
+     "name": "液压油46#",
+     "qty": 316,
+     "unit_price": 460.76,
+     "delivery_days": 11
+    },
+    {
+     "name": "铝合金型材4040",
+     "qty": 274,
+     "unit_price": 25.85,
+     "delivery_days": 21,
+     "variant": "铝合金型材4040"
+    },
+    {
+     "name": "空气开关C32",
+     "qty": 198,
+     "unit_price": 23.63,
+     "delivery_days": 9
+    }
+   ]
+  },
+  "supplier_05@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "触摸屏7寸",
+     "qty": 134,
+     "unit_price": 531.28,
+     "delivery_days": 14
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 384,
+     "unit_price": 10.57,
+     "delivery_days": 11
+    },
+    {
+     "name": "液压油46#",
+     "qty": 316,
+     "unit_price": 386.71,
+     "delivery_days": 11,
+     "variant": "液压油46#（优质）"
+    },
+    {
+     "name": "铝合金型材4040",
+     "qty": 274,
+     "unit_price": 36.57,
+     "delivery_days": 5
+    },
+    {
+     "name": "空气开关C32",
+     "qty": 198,
+     "unit_price": 19.48,
+     "delivery_days": 17
+    }
+   ]
+  },
+  "supplier_09@local.test": {
+   "style": "body",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "触摸屏7寸",
+     "qty": 134,
+     "unit_price": 451.25,
+     "delivery_days": 16,
+     "round1_price": 477.24,
+     "variant": "触摸屏7寸"
+    },
+    {
+     "name": "深沟球轴承6204",
+     "qty": 384,
+     "unit_price": 11.07,
+     "delivery_days": 13,
+     "round1_price": 12.78
+    },
+    {
+     "name": "液压油46#",
+     "qty": 316,
+     "unit_price": 441.78,
+     "delivery_days": 4,
+     "round1_price": 537.54
+    },
+    {
+     "name": "铝合金型材4040",
+     "qty": 274,
+     "unit_price": 35.67,
+     "delivery_days": 5,
+     "round1_price": 43.4,
+     "variant": "铝合金型材4040"
+    },
+    {
+     "name": "空气开关C32",
+     "qty": 198,
+     "unit_price": 15.47,
+     "delivery_days": 12,
+     "round1_price": 17.75,
+     "variant": "空气开关C32"
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0048": {
+  "supplier_06@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "液压油46#",
+     "qty": 45,
+     "unit_price": 326.93,
+     "delivery_days": 5,
+     "variant": "液压油46#（优质）"
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 276,
+     "unit_price": 2.32,
+     "delivery_days": 18
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 170,
+     "unit_price": 4.59,
+     "delivery_days": 16
+    }
+   ]
+  },
+  "supplier_04@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "液压油46#",
+     "qty": 45,
+     "unit_price": 422.55,
+     "delivery_days": 2,
+     "variant": "液压油46#"
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 276,
+     "unit_price": 3.2,
+     "delivery_days": 7
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 170,
+     "unit_price": 5.74,
+     "delivery_days": 4
+    }
+   ]
+  },
+  "supplier_01@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "液压油46#",
+     "qty": 45,
+     "unit_price": 385.16,
+     "delivery_days": 5
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 276,
+     "unit_price": 2.23,
+     "delivery_days": 17
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 170,
+     "unit_price": 3.84,
+     "delivery_days": 5
+    }
+   ]
+  },
+  "supplier_02@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 2,
+   "items": [
+    {
+     "name": "液压油46#",
+     "qty": 45,
+     "unit_price": 338.43,
+     "delivery_days": 7,
+     "variant": "液压油46#"
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 276,
+     "unit_price": 2.22,
+     "delivery_days": 8,
+     "variant": "六角螺栓Ｍ８＊３０"
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 170,
+     "unit_price": 6.03,
+     "delivery_days": 6,
+     "variant": "PVC线槽40*25（优质）"
+    }
+   ]
+  },
+  "supplier_08@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 2,
+   "items": [
+    {
+     "name": "液压油46#",
+     "qty": 45,
+     "unit_price": 458.83,
+     "delivery_days": 17,
+     "variant": "液压油46#"
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 276,
+     "unit_price": 2.75,
+     "delivery_days": 15
+    },
+    {
+     "name": "PVC线槽40*25",
+     "qty": 170,
+     "unit_price": 4.07,
+     "delivery_days": 8,
+     "variant": "PVC线槽40X25"
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0049": {
+  "supplier_03@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "触摸屏7寸",
+     "qty": 453,
+     "unit_price": 602.75,
+     "delivery_days": 10
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 176,
+     "unit_price": 2.17,
+     "delivery_days": 4,
+     "variant": "六角螺栓M8*30（加厚）"
+    }
+   ]
+  },
+  "supplier_05@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "触摸屏7寸",
+     "qty": 453,
+     "unit_price": 586.74,
+     "delivery_days": 19,
+     "variant": "触摸屏7寸（加厚）"
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 176,
+     "unit_price": 3.22,
+     "delivery_days": 13
+    }
+   ]
+  },
+  "supplier_08@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "触摸屏7寸",
+     "qty": 453,
+     "unit_price": 586.23,
+     "delivery_days": 21
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 176,
+     "unit_price": 2.75,
+     "delivery_days": 17
+    }
+   ]
+  },
+  "supplier_01@local.test": {
+   "style": "body",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "触摸屏7寸",
+     "qty": 453,
+     "unit_price": 458.38,
+     "delivery_days": 18
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 176,
+     "unit_price": 3.18,
+     "delivery_days": 5,
+     "variant": "六角螺栓Ｍ８＊３０"
+    }
+   ]
+  },
+  "supplier_09@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "触摸屏7寸",
+     "qty": 453,
+     "unit_price": 439.02,
+     "delivery_days": 18
+    },
+    {
+     "name": "六角螺栓M8*30",
+     "qty": 176,
+     "unit_price": 2.51,
+     "delivery_days": 7
+    }
+   ]
+  }
+ },
+ "RFQ-2026-0050": {
+  "supplier_08@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "伺服电机750W",
+     "qty": 490,
+     "unit_price": 1091.43,
+     "delivery_days": 21
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 332,
+     "unit_price": 42.79,
+     "delivery_days": 12,
+     "variant": "无缝钢管DN50"
+    }
+   ]
+  },
+  "supplier_03@local.test": {
+   "style": "body",
+   "rounds": 2,
+   "wave": 1,
+   "items": [
+    {
+     "name": "伺服电机750W",
+     "qty": 490,
+     "unit_price": 1314.0,
+     "delivery_days": 3,
+     "round1_price": 1562.94
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 332,
+     "unit_price": 40.14,
+     "delivery_days": 12,
+     "round1_price": 49.27
+    }
+   ]
+  },
+  "supplier_09@local.test": {
+   "style": "pdf",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "伺服电机750W",
+     "qty": 490,
+     "unit_price": 1425.1,
+     "delivery_days": 15
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 332,
+     "unit_price": 53.74,
+     "delivery_days": 20,
+     "variant": "无缝钢管DN50"
+    }
+   ]
+  },
+  "supplier_07@local.test": {
+   "style": "excel",
+   "rounds": 1,
+   "wave": 1,
+   "items": [
+    {
+     "name": "伺服电机750W",
+     "qty": 490,
+     "unit_price": 1234.43,
+     "delivery_days": 19
+    },
+    {
+     "name": "无缝钢管DN50",
+     "qty": 332,
+     "unit_price": 38.92,
+     "delivery_days": 9
+    }
+   ]
+  }
+ }
+}
